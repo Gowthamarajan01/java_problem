@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-07T06:52:48.061Z",
+  "lastUpdated": "2026-08-07T09:17:14.786Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -19,6 +19,25 @@
               "runtime": "42 ms",
               "memory": "47.2 MB",
               "githubPath": "LeetCode/Array/Two Sum/"
+            }
+          }
+        },
+        "add-two-numbers": {
+          "questionId": "2",
+          "title": "Add Two Numbers",
+          "titleSlug": "add-two-numbers",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786094234786,
+              "runtime": "1 ms",
+              "memory": "44.8 MB",
+              "githubPath": "LeetCode/Linked List/Add Two Numbers/"
             }
           }
         }
