@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-07T09:17:14.786Z",
+  "lastUpdated": "2026-08-07T09:18:26.531Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -37,6 +37,12 @@
               "syncedAt": 1786094234786,
               "runtime": "1 ms",
               "memory": "44.8 MB",
+              "githubPath": "LeetCode/Linked List/Add Two Numbers/"
+            },
+            "123456789101112131415/** * definition for singly-linked list. * public class listnode { *     int val; *     listnode next; *     listnode() {} *     listnode(int val) { this.val = val; } *     listnode(int val, listnode next) { this.val = val; this.next = next; } * } */class solution {    public listnode addtwonumbers(listnode l1, listnode l2) {            }}": {
+              "syncedAt": 1786094306531,
+              "runtime": "N/A",
+              "memory": "N/A",
               "githubPath": "LeetCode/Linked List/Add Two Numbers/"
             }
           }
