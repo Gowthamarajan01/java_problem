@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-07T09:22:00.440Z",
+  "lastUpdated": "2026-08-07T09:23:06.803Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -63,6 +63,25 @@
               "runtime": "6 ms",
               "memory": "46.4 MB",
               "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
+            }
+          }
+        },
+        "median-of-two-sorted-arrays": {
+          "questionId": "4",
+          "title": "Median of Two Sorted Arrays",
+          "titleSlug": "median-of-two-sorted-arrays",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Divide and Conquer"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786094586803,
+              "runtime": "2 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/Array/Median of Two Sorted Arrays/"
             }
           }
         }
