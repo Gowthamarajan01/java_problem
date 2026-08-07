@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-07T09:23:06.803Z",
+  "lastUpdated": "2026-08-07T09:24:39.734Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -82,6 +82,23 @@
               "runtime": "2 ms",
               "memory": "46.3 MB",
               "githubPath": "LeetCode/Array/Median of Two Sorted Arrays/"
+            }
+          }
+        },
+        "reverse-integer": {
+          "questionId": "7",
+          "title": "Reverse Integer",
+          "titleSlug": "reverse-integer",
+          "difficulty": "Medium",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786094679734,
+              "runtime": "1 ms",
+              "memory": "41.3 MB",
+              "githubPath": "LeetCode/Math/Reverse Integer/"
             }
           }
         }
