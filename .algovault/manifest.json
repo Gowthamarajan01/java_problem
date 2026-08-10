@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T05:56:47.406Z",
+  "lastUpdated": "2026-08-10T05:56:56.586Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -132,9 +132,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341407406,
-              "runtime": "20 ms",
-              "memory": "52.6 MB",
+              "syncedAt": 1786341317746,
+              "runtime": "16 ms",
+              "memory": "52.2 MB",
               "githubPath": "LeetCode/Array/Valid Sudoku/"
             }
           }
@@ -1765,6 +1765,1062 @@
               "runtime": "19 ms",
               "memory": "88 MB",
               "githubPath": "LeetCode/Array/Make Sum Divisible by P/"
+            }
+          }
+        },
+        "greatest-sum-divisible-by-three": {
+          "questionId": "1262",
+          "title": "Greatest Sum Divisible by Three",
+          "titleSlug": "greatest-sum-divisible-by-three",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341390660,
+              "runtime": "15 ms",
+              "memory": "49.7 MB",
+              "githubPath": "LeetCode/Array/Greatest Sum Divisible by Three/"
+            }
+          }
+        },
+        "find-minimum-operations-to-make-all-elements-divisible-by-three": {
+          "questionId": "3190",
+          "title": "Find Minimum Operations to Make All Elements Divisible by Three",
+          "titleSlug": "find-minimum-operations-to-make-all-elements-divisible-by-three",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341390660,
+              "runtime": "0 ms",
+              "memory": "43.8 MB",
+              "githubPath": "LeetCode/Array/Find Minimum Operations to Make All Elements Divisible by Three/"
+            }
+          }
+        },
+        "unique-length-3-palindromic-subsequences": {
+          "questionId": "1930",
+          "title": "Unique Length-3 Palindromic Subsequences",
+          "titleSlug": "unique-length-3-palindromic-subsequences",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Bit Manipulation",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341390660,
+              "runtime": "30 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/Hash Table/Unique Length-3 Palindromic Subsequences/"
+            }
+          }
+        },
+        "set-intersection-size-at-least-two": {
+          "questionId": "757",
+          "title": "Set Intersection Size At Least Two",
+          "titleSlug": "set-intersection-size-at-least-two",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341390660,
+              "runtime": "9 ms",
+              "memory": "47.4 MB",
+              "githubPath": "LeetCode/Array/Set Intersection Size At Least Two/"
+            }
+          }
+        },
+        "keep-multiplying-found-values-by-two": {
+          "questionId": "2154",
+          "title": "Keep Multiplying Found Values by Two",
+          "titleSlug": "keep-multiplying-found-values-by-two",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341390660,
+              "runtime": "1 ms",
+              "memory": "45.6 MB",
+              "githubPath": "LeetCode/Array/Keep Multiplying Found Values by Two/"
+            }
+          }
+        },
+        "1-bit-and-2-bit-characters": {
+          "questionId": "717",
+          "title": "1-bit and 2-bit Characters",
+          "titleSlug": "1-bit-and-2-bit-characters",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341390660,
+              "runtime": "0 ms",
+              "memory": "44.6 MB",
+              "githubPath": "LeetCode/Array/1-bit and 2-bit Characters/"
+            }
+          }
+        },
+        "check-if-all-1s-are-at-least-length-k-places-away": {
+          "questionId": "1437",
+          "title": "Check If All 1's Are at Least Length K Places Away",
+          "titleSlug": "check-if-all-1s-are-at-least-length-k-places-away",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341390660,
+              "runtime": "1 ms",
+              "memory": "65.3 MB",
+              "githubPath": "LeetCode/Array/Check If All 1's Are at Least Length K Places Away/"
+            }
+          }
+        },
+        "number-of-substrings-with-only-1s": {
+          "questionId": "1513",
+          "title": "Number of Substrings With Only 1s",
+          "titleSlug": "number-of-substrings-with-only-1s",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341390660,
+              "runtime": "4 ms",
+              "memory": "46.1 MB",
+              "githubPath": "LeetCode/Math/Number of Substrings With Only 1s/"
+            }
+          }
+        },
+        "count-the-number-of-substrings-with-dominant-ones": {
+          "questionId": "3234",
+          "title": "Count the Number of Substrings With Dominant Ones",
+          "titleSlug": "count-the-number-of-substrings-with-dominant-ones",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341390661,
+              "runtime": "116 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/String/Count the Number of Substrings With Dominant Ones/"
+            }
+          }
+        },
+        "maximum-number-of-operations-to-move-ones-to-the-end": {
+          "questionId": "3228",
+          "title": "Maximum Number of Operations to Move Ones to the End",
+          "titleSlug": "maximum-number-of-operations-to-move-ones-to-the-end",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Greedy",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341390661,
+              "runtime": "7 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/String/Maximum Number of Operations to Move Ones to the End/"
+            }
+          }
+        },
+        "minimum-number-of-operations-to-make-all-array-elements-equal-to-1": {
+          "questionId": "2654",
+          "title": "Minimum Number of Operations to Make All Array Elements Equal to 1",
+          "titleSlug": "minimum-number-of-operations-to-make-all-array-elements-equal-to-1",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Number Theory",
+            "Euclidean Algorithm",
+            "Greatest Common Divisor"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341390661,
+              "runtime": "1 ms",
+              "memory": "44 MB",
+              "githubPath": "LeetCode/Array/Minimum Number of Operations to Make All Array Elements Equal to 1/"
+            }
+          }
+        },
+        "ones-and-zeroes": {
+          "questionId": "474",
+          "title": "Ones and Zeroes",
+          "titleSlug": "ones-and-zeroes",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "String",
+            "Dynamic Programming",
+            "Knapsack Problem",
+            "0-1 Knapsack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341390661,
+              "runtime": "20 ms",
+              "memory": "43.6 MB",
+              "githubPath": "LeetCode/Array/Ones and Zeroes/"
+            }
+          }
+        },
+        "count-operations-to-obtain-zero": {
+          "questionId": "2169",
+          "title": "Count Operations to Obtain Zero",
+          "titleSlug": "count-operations-to-obtain-zero",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341390661,
+              "runtime": "1 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Math/Count Operations to Obtain Zero/"
+            }
+          }
+        },
+        "minimum-one-bit-operations-to-make-integers-zero": {
+          "questionId": "1611",
+          "title": "Minimum One Bit Operations to Make Integers Zero",
+          "titleSlug": "minimum-one-bit-operations-to-make-integers-zero",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Bit Manipulation",
+            "Recursion",
+            "Memoization"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341390661,
+              "runtime": "0 ms",
+              "memory": "41.9 MB",
+              "githubPath": "LeetCode/Math/Minimum One Bit Operations to Make Integers Zero/"
+            }
+          }
+        },
+        "maximize-the-minimum-powered-city": {
+          "questionId": "2528",
+          "title": "Maximize the Minimum Powered City",
+          "titleSlug": "maximize-the-minimum-powered-city",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Greedy",
+            "Queue",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341390661,
+              "runtime": "29 ms",
+              "memory": "89.6 MB",
+              "githubPath": "LeetCode/Array/Maximize the Minimum Powered City/"
+            }
+          }
+        },
+        "add-strings": {
+          "questionId": "415",
+          "title": "Add Strings",
+          "titleSlug": "add-strings",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341390661,
+              "runtime": "19 ms",
+              "memory": "45.6 MB",
+              "githubPath": "LeetCode/Math/Add Strings/"
+            }
+          }
+        },
+        "remove-trailing-zeros-from-a-string": {
+          "questionId": "2710",
+          "title": "Remove Trailing Zeros From a String",
+          "titleSlug": "remove-trailing-zeros-from-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341397539,
+              "runtime": "1 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/String/Remove Trailing Zeros From a String/"
+            }
+          }
+        },
+        "arranging-coins": {
+          "questionId": "441",
+          "title": "Arranging Coins",
+          "titleSlug": "arranging-coins",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341397539,
+              "runtime": "7 ms",
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/Math/Arranging Coins/"
+            }
+          }
+        },
+        "power-grid-maintenance": {
+          "questionId": "3607",
+          "title": "Power Grid Maintenance",
+          "titleSlug": "power-grid-maintenance",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union-Find",
+            "Graph Theory",
+            "Heap (Priority Queue)",
+            "Ordered Set"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341397539,
+              "runtime": "18 ms",
+              "memory": "259 MB",
+              "githubPath": "LeetCode/Array/Power Grid Maintenance/"
+            }
+          }
+        },
+        "power-of-four": {
+          "questionId": "342",
+          "title": "Power of Four",
+          "titleSlug": "power-of-four",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Bit Manipulation",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341397539,
+              "runtime": "1 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Math/Power of Four/"
+            }
+          }
+        },
+        "number-of-segments-in-a-string": {
+          "questionId": "434",
+          "title": "Number of Segments in a String",
+          "titleSlug": "number-of-segments-in-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341397539,
+              "runtime": "0 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/String/Number of Segments in a String/"
+            }
+          }
+        },
+        "longest-palindrome": {
+          "questionId": "409",
+          "title": "Longest Palindrome",
+          "titleSlug": "longest-palindrome",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341397540,
+              "runtime": "5 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/Hash Table/Longest Palindrome/"
+            }
+          }
+        },
+        "sum-of-square-numbers": {
+          "questionId": "633",
+          "title": "Sum of Square Numbers",
+          "titleSlug": "sum-of-square-numbers",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Two Pointers",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341397540,
+              "runtime": "4 ms",
+              "memory": "41.9 MB",
+              "githubPath": "LeetCode/Math/Sum of Square Numbers/"
+            }
+          }
+        },
+        "find-x-sum-of-all-k-long-subarrays-ii": {
+          "questionId": "3321",
+          "title": "Find X-Sum of All K-Long Subarrays II",
+          "titleSlug": "find-x-sum-of-all-k-long-subarrays-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341397540,
+              "runtime": "403 ms",
+              "memory": "191.2 MB",
+              "githubPath": "LeetCode/Array/Find X-Sum of All K-Long Subarrays II/"
+            }
+          }
+        },
+        "construct-the-rectangle": {
+          "questionId": "492",
+          "title": "Construct the Rectangle",
+          "titleSlug": "construct-the-rectangle",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341397540,
+              "runtime": "0 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Math/Construct the Rectangle/"
+            }
+          }
+        },
+        "number-complement": {
+          "questionId": "476",
+          "title": "Number Complement",
+          "titleSlug": "number-complement",
+          "difficulty": "Easy",
+          "tags": [
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341397540,
+              "runtime": "0 ms",
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/Bit Manipulation/Number Complement/"
+            }
+          }
+        },
+        "assign-cookies": {
+          "questionId": "455",
+          "title": "Assign Cookies",
+          "titleSlug": "assign-cookies",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Greedy",
+            "Sorting",
+            "Quicksort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341397540,
+              "runtime": "14 ms",
+              "memory": "51.5 MB",
+              "githubPath": "LeetCode/Array/Assign Cookies/"
+            }
+          }
+        },
+        "find-the-difference": {
+          "questionId": "389",
+          "title": "Find the Difference",
+          "titleSlug": "find-the-difference",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Bit Manipulation",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341406390,
+              "runtime": "11 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Hash Table/Find the Difference/"
+            }
+          }
+        },
+        "valid-perfect-square": {
+          "questionId": "367",
+          "title": "Valid Perfect Square",
+          "titleSlug": "valid-perfect-square",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341406390,
+              "runtime": "0 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Math/Valid Perfect Square/"
+            }
+          }
+        },
+        "find-x-sum-of-all-k-long-subarrays-i": {
+          "questionId": "3318",
+          "title": "Find X-Sum of All K-Long Subarrays I",
+          "titleSlug": "find-x-sum-of-all-k-long-subarrays-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341406391,
+              "runtime": "3 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Array/Find X-Sum of All K-Long Subarrays I/"
+            }
+          }
+        },
+        "move-zeroes": {
+          "questionId": "283",
+          "title": "Move Zeroes",
+          "titleSlug": "move-zeroes",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341406391,
+              "runtime": "1 ms",
+              "memory": "47.9 MB",
+              "githubPath": "LeetCode/Array/Move Zeroes/"
+            }
+          }
+        },
+        "excel-sheet-column-number": {
+          "questionId": "171",
+          "title": "Excel Sheet Column Number",
+          "titleSlug": "excel-sheet-column-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341406391,
+              "runtime": "1 ms",
+              "memory": "43.6 MB",
+              "githubPath": "LeetCode/Math/Excel Sheet Column Number/"
+            }
+          }
+        },
+        "contains-duplicate-ii": {
+          "questionId": "219",
+          "title": "Contains Duplicate II",
+          "titleSlug": "contains-duplicate-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341406391,
+              "runtime": "23 ms",
+              "memory": "90.2 MB",
+              "githubPath": "LeetCode/Array/Contains Duplicate II/"
+            }
+          }
+        },
+        "contains-duplicate": {
+          "questionId": "217",
+          "title": "Contains Duplicate",
+          "titleSlug": "contains-duplicate",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341406391,
+              "runtime": "24 ms",
+              "memory": "76.8 MB",
+              "githubPath": "LeetCode/Array/Contains Duplicate/"
+            }
+          }
+        },
+        "remove-duplicates-from-sorted-list": {
+          "questionId": "83",
+          "title": "Remove Duplicates from Sorted List",
+          "titleSlug": "remove-duplicates-from-sorted-list",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341406391,
+              "runtime": "0 ms",
+              "memory": "45.2 MB",
+              "githubPath": "LeetCode/Linked List/Remove Duplicates from Sorted List/"
+            }
+          }
+        },
+        "add-binary": {
+          "questionId": "67",
+          "title": "Add Binary",
+          "titleSlug": "add-binary",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Bit Manipulation",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341406391,
+              "runtime": "1 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/Math/Add Binary/"
+            }
+          }
+        },
+        "minimum-time-to-make-rope-colorful": {
+          "questionId": "1578",
+          "title": "Minimum Time to Make Rope Colorful",
+          "titleSlug": "minimum-time-to-make-rope-colorful",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "String",
+            "Dynamic Programming",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341406391,
+              "runtime": "8 ms",
+              "memory": "90.6 MB",
+              "githubPath": "LeetCode/Array/Minimum Time to Make Rope Colorful/"
+            }
+          }
+        },
+        "reverse-linked-list": {
+          "questionId": "206",
+          "title": "Reverse Linked List",
+          "titleSlug": "reverse-linked-list",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341406391,
+              "runtime": "0 ms",
+              "memory": "44.2 MB",
+              "githubPath": "LeetCode/Linked List/Reverse Linked List/"
+            }
+          }
+        },
+        "linked-list-cycle": {
+          "questionId": "141",
+          "title": "Linked List Cycle",
+          "titleSlug": "linked-list-cycle",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Linked List",
+            "Two Pointers",
+            "Floyd's Cycle Finding Algorithm"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341406391,
+              "runtime": "0 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Hash Table/Linked List Cycle/"
+            }
+          }
+        },
+        "max-consecutive-ones-iii": {
+          "questionId": "1004",
+          "title": "Max Consecutive Ones III",
+          "titleSlug": "max-consecutive-ones-iii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341406391,
+              "runtime": "3 ms",
+              "memory": "51.7 MB",
+              "githubPath": "LeetCode/Array/Max Consecutive Ones III/"
+            }
+          }
+        },
+        "fruit-into-baskets": {
+          "questionId": "904",
+          "title": "Fruit Into Baskets",
+          "titleSlug": "fruit-into-baskets",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341416586,
+              "runtime": "50 ms",
+              "memory": "61.7 MB",
+              "githubPath": "LeetCode/Array/Fruit Into Baskets/"
+            }
+          }
+        },
+        "count-unguarded-cells-in-the-grid": {
+          "questionId": "2257",
+          "title": "Count Unguarded Cells in the Grid",
+          "titleSlug": "count-unguarded-cells-in-the-grid",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341416586,
+              "runtime": "20 ms",
+              "memory": "147.2 MB",
+              "githubPath": "LeetCode/Array/Count Unguarded Cells in the Grid/"
+            }
+          }
+        },
+        "the-two-sneaky-numbers-of-digitville": {
+          "questionId": "3289",
+          "title": "The Two Sneaky Numbers of Digitville",
+          "titleSlug": "the-two-sneaky-numbers-of-digitville",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341416586,
+              "runtime": "1 ms",
+              "memory": "45.9 MB",
+              "githubPath": "LeetCode/Array/The Two Sneaky Numbers of Digitville/"
+            }
+          }
+        },
+        "minimum-number-of-increments-on-subarrays-to-form-a-target-array": {
+          "questionId": "1526",
+          "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
+          "titleSlug": "minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Stack",
+            "Greedy",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341416586,
+              "runtime": "3 ms",
+              "memory": "57.3 MB",
+              "githubPath": "LeetCode/Array/Minimum Number of Increments on Subarrays to Form a Target Array/"
+            }
+          }
+        },
+        "longest-subarray-of-1s-after-deleting-one-element": {
+          "questionId": "1493",
+          "title": "Longest Subarray of 1's After Deleting One Element",
+          "titleSlug": "longest-subarray-of-1s-after-deleting-one-element",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341416586,
+              "runtime": "3 ms",
+              "memory": "56.2 MB",
+              "githubPath": "LeetCode/Array/Longest Subarray of 1's After Deleting One Element/"
+            }
+          }
+        },
+        "smallest-number-with-all-set-bits": {
+          "questionId": "3370",
+          "title": "Smallest Number With All Set Bits",
+          "titleSlug": "smallest-number-with-all-set-bits",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341416586,
+              "runtime": "0 ms",
+              "memory": "40.8 MB",
+              "githubPath": "LeetCode/Math/Smallest Number With All Set Bits/"
+            }
+          }
+        },
+        "make-array-elements-equal-to-zero": {
+          "questionId": "3354",
+          "title": "Make Array Elements Equal to Zero",
+          "titleSlug": "make-array-elements-equal-to-zero",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Simulation",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341416586,
+              "runtime": "3 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Array/Make Array Elements Equal to Zero/"
+            }
+          }
+        },
+        "number-of-laser-beams-in-a-bank": {
+          "questionId": "2125",
+          "title": "Number of Laser Beams in a Bank",
+          "titleSlug": "number-of-laser-beams-in-a-bank",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "String",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341416586,
+              "runtime": "12 ms",
+              "memory": "45.2 MB",
+              "githubPath": "LeetCode/Array/Number of Laser Beams in a Bank/"
+            }
+          }
+        },
+        "simple-bank-system": {
+          "questionId": "2043",
+          "title": "Simple Bank System",
+          "titleSlug": "simple-bank-system",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Design",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341416586,
+              "runtime": "96 ms",
+              "memory": "101.8 MB",
+              "githubPath": "LeetCode/Array/Simple Bank System/"
+            }
+          }
+        },
+        "calculate-money-in-leetcode-bank": {
+          "questionId": "1716",
+          "title": "Calculate Money in Leetcode Bank",
+          "titleSlug": "calculate-money-in-leetcode-bank",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341416586,
+              "runtime": "1 ms",
+              "memory": "40.9 MB",
+              "githubPath": "LeetCode/Math/Calculate Money in Leetcode Bank/"
+            }
+          }
+        },
+        "happy-number": {
+          "questionId": "202",
+          "title": "Happy Number",
+          "titleSlug": "happy-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "Two Pointers",
+            "Floyd's Cycle Finding Algorithm"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341416586,
+              "runtime": "1 ms",
+              "memory": "41.3 MB",
+              "githubPath": "LeetCode/Hash Table/Happy Number/"
+            }
+          }
+        },
+        "next-greater-element-iv": {
+          "questionId": "2454",
+          "title": "Next Greater Element IV",
+          "titleSlug": "next-greater-element-iv",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Stack",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341416586,
+              "runtime": "80 ms",
+              "memory": "60.7 MB",
+              "githubPath": "LeetCode/Array/Next Greater Element IV/"
+            }
+          }
+        },
+        "next-greater-element-ii": {
+          "questionId": "503",
+          "title": "Next Greater Element II",
+          "titleSlug": "next-greater-element-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Stack",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341416586,
+              "runtime": "15 ms",
+              "memory": "46.4 MB",
+              "githubPath": "LeetCode/Array/Next Greater Element II/"
+            }
+          }
+        },
+        "next-greater-element-i": {
+          "questionId": "496",
+          "title": "Next Greater Element I",
+          "titleSlug": "next-greater-element-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Stack",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341416586,
+              "runtime": "9 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/Array/Next Greater Element I/"
+            }
+          }
+        },
+        "next-greater-numerically-balanced-number": {
+          "questionId": "2048",
+          "title": "Next Greater Numerically Balanced Number",
+          "titleSlug": "next-greater-numerically-balanced-number",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "Backtracking",
+            "Counting",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341416586,
+              "runtime": "161 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Hash Table/Next Greater Numerically Balanced Number/"
             }
           }
         }
