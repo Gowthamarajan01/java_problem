@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T05:55:51.769Z",
+  "lastUpdated": "2026-08-10T05:56:02.299Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -984,6 +984,297 @@
               "runtime": "62 ms",
               "memory": "47.6 MB",
               "githubPath": "LeetCode/String/Removing Stars From a String/"
+            }
+          }
+        },
+        "simplify-path": {
+          "questionId": "71",
+          "title": "Simplify Path",
+          "titleSlug": "simplify-path",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341362298,
+              "runtime": "4 ms",
+              "memory": "44.8 MB",
+              "githubPath": "LeetCode/String/Simplify Path/"
+            }
+          }
+        },
+        "remove-all-adjacent-duplicates-in-string": {
+          "questionId": "1047",
+          "title": "Remove All Adjacent Duplicates In String",
+          "titleSlug": "remove-all-adjacent-duplicates-in-string",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341362298,
+              "runtime": "25 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/String/Remove All Adjacent Duplicates In String/"
+            }
+          }
+        },
+        "valid-parentheses": {
+          "questionId": "20",
+          "title": "Valid Parentheses",
+          "titleSlug": "valid-parentheses",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack",
+            "Bracket Sequences"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341362298,
+              "runtime": "3 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/String/Valid Parentheses/"
+            }
+          }
+        },
+        "middle-of-the-linked-list": {
+          "questionId": "876",
+          "title": "Middle of the Linked List",
+          "titleSlug": "middle-of-the-linked-list",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341362298,
+              "runtime": "0 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Linked List/Middle of the Linked List/"
+            }
+          }
+        },
+        "convert-binary-number-in-a-linked-list-to-integer": {
+          "questionId": "1290",
+          "title": "Convert Binary Number in a Linked List to Integer",
+          "titleSlug": "convert-binary-number-in-a-linked-list-to-integer",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341362298,
+              "runtime": "0 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Linked List/Convert Binary Number in a Linked List to Integer/"
+            }
+          }
+        },
+        "find-all-lonely-numbers-in-the-array": {
+          "questionId": "2150",
+          "title": "Find All Lonely Numbers in the Array",
+          "titleSlug": "find-all-lonely-numbers-in-the-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341362298,
+              "runtime": "91 ms",
+              "memory": "158.1 MB",
+              "githubPath": "LeetCode/Array/Find All Lonely Numbers in the Array/"
+            }
+          }
+        },
+        "top-k-frequent-elements": {
+          "questionId": "347",
+          "title": "Top K Frequent Elements",
+          "titleSlug": "top-k-frequent-elements",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Divide and Conquer",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Bucket Sort",
+            "Counting",
+            "Quickselect"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341362298,
+              "runtime": "15 ms",
+              "memory": "47.9 MB",
+              "githubPath": "LeetCode/Array/Top K Frequent Elements/"
+            }
+          }
+        },
+        "find-the-difference-of-two-arrays": {
+          "questionId": "2215",
+          "title": "Find the Difference of Two Arrays",
+          "titleSlug": "find-the-difference-of-two-arrays",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341362298,
+              "runtime": "13 ms",
+              "memory": "47.3 MB",
+              "githubPath": "LeetCode/Array/Find the Difference of Two Arrays/"
+            }
+          }
+        },
+        "repeated-dna-sequences": {
+          "questionId": "187",
+          "title": "Repeated DNA Sequences",
+          "titleSlug": "repeated-dna-sequences",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Bit Manipulation",
+            "Sliding Window",
+            "Rolling Hash",
+            "Hash Function",
+            "Z Algorithm",
+            "Boyer–Moore String-Search Algorithm"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341362298,
+              "runtime": "19 ms",
+              "memory": "56 MB",
+              "githubPath": "LeetCode/Hash Table/Repeated DNA Sequences/"
+            }
+          }
+        },
+        "first-letter-to-appear-twice": {
+          "questionId": "2351",
+          "title": "First Letter to Appear Twice",
+          "titleSlug": "first-letter-to-appear-twice",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Bit Manipulation",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341362299,
+              "runtime": "0 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Hash Table/First Letter to Appear Twice/"
+            }
+          }
+        },
+        "missing-number": {
+          "questionId": "268",
+          "title": "Missing Number",
+          "titleSlug": "missing-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Binary Search",
+            "Bit Manipulation",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341362299,
+              "runtime": "5 ms",
+              "memory": "47.4 MB",
+              "githubPath": "LeetCode/Array/Missing Number/"
+            }
+          }
+        },
+        "add-digits": {
+          "questionId": "258",
+          "title": "Add Digits",
+          "titleSlug": "add-digits",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Simulation",
+            "Number Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341362299,
+              "runtime": "1 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Math/Add Digits/"
+            }
+          }
+        },
+        "subsets": {
+          "questionId": "78",
+          "title": "Subsets",
+          "titleSlug": "subsets",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341362299,
+              "runtime": "1 ms",
+              "memory": "44.3 MB",
+              "githubPath": "LeetCode/Array/Subsets/"
+            }
+          }
+        },
+        "find-all-numbers-disappeared-in-an-array": {
+          "questionId": "448",
+          "title": "Find All Numbers Disappeared in an Array",
+          "titleSlug": "find-all-numbers-disappeared-in-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341362299,
+              "runtime": "4 ms",
+              "memory": "67.1 MB",
+              "githubPath": "LeetCode/Array/Find All Numbers Disappeared in an Array/"
+            }
+          }
+        },
+        "shuffle-the-array": {
+          "questionId": "1470",
+          "title": "Shuffle the Array",
+          "titleSlug": "shuffle-the-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341362299,
+              "runtime": "0 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Array/Shuffle the Array/"
             }
           }
         }
