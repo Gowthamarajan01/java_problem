@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T05:58:36.923Z",
+  "lastUpdated": "2026-08-10T05:58:38.453Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -117,6 +117,12 @@
               "runtime": "0 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Math/Stone Removal Game/"
+            },
+            "1c": {
+              "syncedAt": 1786341518453,
+              "runtime": "0 ms",
+              "memory": "41.69 MB",
+              "githubPath": "LeetCode/Math/Stone Removal Game/"
             }
           }
         },
@@ -132,7 +138,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341516923,
+              "syncedAt": 1786341317746,
               "runtime": "16 ms",
               "memory": "52.2 MB",
               "githubPath": "LeetCode/Array/Valid Sudoku/"
