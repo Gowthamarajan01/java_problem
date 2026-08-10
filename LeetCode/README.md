@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Gowthathamarajan_pommusamy?theme=tokyonight&show=graph,recent&v=1786341390662" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Gowthathamarajan_pommusamy?theme=tokyonight&show=graph,recent&v=1786341397541" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -41,6 +41,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 414 | [Third Maximum Number](./Array/Third%20Maximum%20Number/) | Easy |
 | 442 | [Find All Duplicates in an Array](./Array/Find%20All%20Duplicates%20in%20an%20Array/) | Medium |
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
+| 455 | [Assign Cookies](./Array/Assign%20Cookies/) | Easy |
 | 462 | [Minimum Moves to Equal Array Elements II](./Array/Minimum%20Moves%20to%20Equal%20Array%20Elements%20II/) | Medium |
 | 474 | [Ones and Zeroes](./Array/Ones%20and%20Zeroes/) | Medium |
 | 485 | [Max Consecutive Ones](./Array/Max%20Consecutive%20Ones/) | Easy |
@@ -74,7 +75,20 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2528 | [Maximize the Minimum Powered City](./Array/Maximize%20the%20Minimum%20Powered%20City/) | Hard |
 | 2654 | [Minimum Number of Operations to Make All Array Elements Equal to 1](./Array/Minimum%20Number%20of%20Operations%20to%20Make%20All%20Array%20Elements%20Equal%20to%201/) | Medium |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](./Array/Find%20Minimum%20Operations%20to%20Make%20All%20Elements%20Divisible%20by%20Three/) | Easy |
+| 3321 | [Find X-Sum of All K-Long Subarrays II](./Array/Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20II/) | Hard |
+| 3607 | [Power Grid Maintenance](./Array/Power%20Grid%20Maintenance/) | Medium |
 | 3625 | [Count Number of Trapezoids II](./Array/Count%20Number%20of%20Trapezoids%20II/) | Hard |
+
+</details>
+
+
+### Bit Manipulation
+<details>
+<summary>Click to expand Bit Manipulation problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 476 | [Number Complement](./Bit%20Manipulation/Number%20Complement/) | Easy |
 
 </details>
 
@@ -116,6 +130,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 13 | [Roman to Integer](./Hash%20Table/Roman%20to%20Integer/) | Easy |
 | 187 | [Repeated DNA Sequences](./Hash%20Table/Repeated%20DNA%20Sequences/) | Medium |
 | 205 | [Isomorphic Strings](./Hash%20Table/Isomorphic%20Strings/) | Easy |
+| 409 | [Longest Palindrome](./Hash%20Table/Longest%20Palindrome/) | Easy |
 | 1930 | [Unique Length-3 Palindromic Subsequences](./Hash%20Table/Unique%20Length-3%20Palindromic%20Subsequences/) | Medium |
 | 2351 | [First Letter to Appear Twice](./Hash%20Table/First%20Letter%20to%20Appear%20Twice/) | Easy |
 
@@ -147,10 +162,14 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 258 | [Add Digits](./Math/Add%20Digits/) | Easy |
 | 319 | [Bulb Switcher](./Math/Bulb%20Switcher/) | Medium |
 | 326 | [Power of Three](./Math/Power%20of%20Three/) | Easy |
+| 342 | [Power of Four](./Math/Power%20of%20Four/) | Easy |
 | 343 | [Integer Break](./Math/Integer%20Break/) | Medium |
 | 400 | [Nth Digit](./Math/Nth%20Digit/) | Medium |
 | 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
 | 415 | [Add Strings](./Math/Add%20Strings/) | Easy |
+| 441 | [Arranging Coins](./Math/Arranging%20Coins/) | Easy |
+| 492 | [Construct the Rectangle](./Math/Construct%20the%20Rectangle/) | Easy |
+| 633 | [Sum of Square Numbers](./Math/Sum%20of%20Square%20Numbers/) | Medium |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](./Math/Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer/) | Easy |
 | 1342 | [Number of Steps to Reduce a Number to Zero](./Math/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/) | Easy |
 | 1510 | [Stone Game IV](./Math/Stone%20Game%20IV/) | Hard |
@@ -174,11 +193,13 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
 | 71 | [Simplify Path](./String/Simplify%20Path/) | Medium |
+| 434 | [Number of Segments in a String](./String/Number%20of%20Segments%20in%20a%20String/) | Easy |
 | 459 | [Repeated Substring Pattern](./String/Repeated%20Substring%20Pattern/) | Easy |
 | 1047 | [Remove All Adjacent Duplicates In String](./String/Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy |
 | 1544 | [Make The String Great](./String/Make%20The%20String%20Great/) | Easy |
 | 2211 | [Count Collisions on a Road](./String/Count%20Collisions%20on%20a%20Road/) | Medium |
 | 2390 | [Removing Stars From a String](./String/Removing%20Stars%20From%20a%20String/) | Medium |
+| 2710 | [Remove Trailing Zeros From a String](./String/Remove%20Trailing%20Zeros%20From%20a%20String/) | Easy |
 | 3228 | [Maximum Number of Operations to Move Ones to the End](./String/Maximum%20Number%20of%20Operations%20to%20Move%20Ones%20to%20the%20End/) | Medium |
 | 3234 | [Count the Number of Substrings With Dominant Ones](./String/Count%20the%20Number%20of%20Substrings%20With%20Dominant%20Ones/) | Medium |
 

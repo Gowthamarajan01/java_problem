@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T05:56:30.661Z",
+  "lastUpdated": "2026-08-10T05:56:37.540Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2073,6 +2073,214 @@
               "runtime": "19 ms",
               "memory": "45.6 MB",
               "githubPath": "LeetCode/Math/Add Strings/"
+            }
+          }
+        },
+        "remove-trailing-zeros-from-a-string": {
+          "questionId": "2710",
+          "title": "Remove Trailing Zeros From a String",
+          "titleSlug": "remove-trailing-zeros-from-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341397539,
+              "runtime": "1 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/String/Remove Trailing Zeros From a String/"
+            }
+          }
+        },
+        "arranging-coins": {
+          "questionId": "441",
+          "title": "Arranging Coins",
+          "titleSlug": "arranging-coins",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341397539,
+              "runtime": "7 ms",
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/Math/Arranging Coins/"
+            }
+          }
+        },
+        "power-grid-maintenance": {
+          "questionId": "3607",
+          "title": "Power Grid Maintenance",
+          "titleSlug": "power-grid-maintenance",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union-Find",
+            "Graph Theory",
+            "Heap (Priority Queue)",
+            "Ordered Set"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341397539,
+              "runtime": "18 ms",
+              "memory": "259 MB",
+              "githubPath": "LeetCode/Array/Power Grid Maintenance/"
+            }
+          }
+        },
+        "power-of-four": {
+          "questionId": "342",
+          "title": "Power of Four",
+          "titleSlug": "power-of-four",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Bit Manipulation",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341397539,
+              "runtime": "1 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Math/Power of Four/"
+            }
+          }
+        },
+        "number-of-segments-in-a-string": {
+          "questionId": "434",
+          "title": "Number of Segments in a String",
+          "titleSlug": "number-of-segments-in-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341397539,
+              "runtime": "0 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/String/Number of Segments in a String/"
+            }
+          }
+        },
+        "longest-palindrome": {
+          "questionId": "409",
+          "title": "Longest Palindrome",
+          "titleSlug": "longest-palindrome",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341397540,
+              "runtime": "5 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/Hash Table/Longest Palindrome/"
+            }
+          }
+        },
+        "sum-of-square-numbers": {
+          "questionId": "633",
+          "title": "Sum of Square Numbers",
+          "titleSlug": "sum-of-square-numbers",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Two Pointers",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341397540,
+              "runtime": "4 ms",
+              "memory": "41.9 MB",
+              "githubPath": "LeetCode/Math/Sum of Square Numbers/"
+            }
+          }
+        },
+        "find-x-sum-of-all-k-long-subarrays-ii": {
+          "questionId": "3321",
+          "title": "Find X-Sum of All K-Long Subarrays II",
+          "titleSlug": "find-x-sum-of-all-k-long-subarrays-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341397540,
+              "runtime": "403 ms",
+              "memory": "191.2 MB",
+              "githubPath": "LeetCode/Array/Find X-Sum of All K-Long Subarrays II/"
+            }
+          }
+        },
+        "construct-the-rectangle": {
+          "questionId": "492",
+          "title": "Construct the Rectangle",
+          "titleSlug": "construct-the-rectangle",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341397540,
+              "runtime": "0 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Math/Construct the Rectangle/"
+            }
+          }
+        },
+        "number-complement": {
+          "questionId": "476",
+          "title": "Number Complement",
+          "titleSlug": "number-complement",
+          "difficulty": "Easy",
+          "tags": [
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341397540,
+              "runtime": "0 ms",
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/Bit Manipulation/Number Complement/"
+            }
+          }
+        },
+        "assign-cookies": {
+          "questionId": "455",
+          "title": "Assign Cookies",
+          "titleSlug": "assign-cookies",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Greedy",
+            "Sorting",
+            "Quicksort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341397540,
+              "runtime": "14 ms",
+              "memory": "51.5 MB",
+              "githubPath": "LeetCode/Array/Assign Cookies/"
             }
           }
         }
