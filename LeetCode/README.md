@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Gowthathamarajan_pommusamy?theme=tokyonight&show=graph,recent&v=1786094737611" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Gowthathamarajan_pommusamy?theme=tokyonight&show=graph,recent&v=1786341317757" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -18,6 +18,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
 | 4 | [Median of Two Sorted Arrays](./Array/Median%20of%20Two%20Sorted%20Arrays/) | Hard |
+| 36 | [Valid Sudoku](./Array/Valid%20Sudoku/) | Medium |
 
 </details>
 
@@ -51,6 +52,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 7 | [Reverse Integer](./Math/Reverse%20Integer/) | Medium |
+| 1510 | [Stone Game IV](./Math/Stone%20Game%20IV/) | Hard |
+| 3360 | [Stone Removal Game](./Math/Stone%20Removal%20Game/) | Easy |
 
 </details>
 

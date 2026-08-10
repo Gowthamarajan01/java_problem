@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-07T09:25:37.574Z",
+  "lastUpdated": "2026-08-10T05:55:17.746Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -34,9 +34,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786094234786,
+              "syncedAt": 1786341317746,
               "runtime": "1 ms",
-              "memory": "44.8 MB",
+              "memory": "46.6 MB",
               "githubPath": "LeetCode/Linked List/Add Two Numbers/"
             },
             "123456789101112131415/** * definition for singly-linked list. * public class listnode { *     int val; *     listnode next; *     listnode() {} *     listnode(int val) { this.val = val; } *     listnode(int val, listnode next) { this.val = val; this.next = next; } * } */class solution {    public listnode addtwonumbers(listnode l1, listnode l2) {            }}": {
@@ -59,9 +59,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786094520440,
-              "runtime": "6 ms",
-              "memory": "46.4 MB",
+              "syncedAt": 1786341317746,
+              "runtime": "66 ms",
+              "memory": "47.8 MB",
               "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
             }
           }
@@ -78,9 +78,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786094586803,
-              "runtime": "2 ms",
-              "memory": "46.3 MB",
+              "syncedAt": 1786341317746,
+              "runtime": "1 ms",
+              "memory": "48.9 MB",
               "githubPath": "LeetCode/Array/Median of Two Sorted Arrays/"
             }
           }
@@ -95,10 +95,70 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786094737574,
+              "syncedAt": 1786341317746,
               "runtime": "1 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Math/Reverse Integer/"
+            }
+          }
+        },
+        "stone-removal-game": {
+          "questionId": "3360",
+          "title": "Stone Removal Game",
+          "titleSlug": "stone-removal-game",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341317746,
+              "runtime": "0 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Math/Stone Removal Game/"
+            }
+          }
+        },
+        "valid-sudoku": {
+          "questionId": "36",
+          "title": "Valid Sudoku",
+          "titleSlug": "valid-sudoku",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341317746,
+              "runtime": "16 ms",
+              "memory": "52.2 MB",
+              "githubPath": "LeetCode/Array/Valid Sudoku/"
+            }
+          }
+        },
+        "stone-game-iv": {
+          "questionId": "1510",
+          "title": "Stone Game IV",
+          "titleSlug": "stone-game-iv",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Minimax",
+            "Game Theory",
+            "Nim Game",
+            "Sprague–Grundy Theorem",
+            "Zero-Sum Game"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341317746,
+              "runtime": "14 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/Math/Stone Game IV/"
             }
           }
         }
