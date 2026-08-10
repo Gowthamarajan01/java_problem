@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T05:55:39.750Z",
+  "lastUpdated": "2026-08-10T05:55:41.045Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -15,9 +15,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341328659,
-              "runtime": "44 ms",
-              "memory": "46.9 MB",
+              "syncedAt": 1786085568061,
+              "runtime": "42 ms",
+              "memory": "47.2 MB",
               "githubPath": "LeetCode/Array/Two Sum/"
             }
           }
@@ -34,9 +34,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341317746,
+              "syncedAt": 1786094234786,
               "runtime": "1 ms",
-              "memory": "46.6 MB",
+              "memory": "44.8 MB",
               "githubPath": "LeetCode/Linked List/Add Two Numbers/"
             },
             "123456789101112131415/** * definition for singly-linked list. * public class listnode { *     int val; *     listnode next; *     listnode() {} *     listnode(int val) { this.val = val; } *     listnode(int val, listnode next) { this.val = val; this.next = next; } * } */class solution {    public listnode addtwonumbers(listnode l1, listnode l2) {            }}": {
@@ -59,9 +59,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341317746,
-              "runtime": "66 ms",
-              "memory": "47.8 MB",
+              "syncedAt": 1786094520440,
+              "runtime": "6 ms",
+              "memory": "46.4 MB",
               "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
             }
           }
@@ -78,9 +78,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341317746,
-              "runtime": "1 ms",
-              "memory": "48.9 MB",
+              "syncedAt": 1786094586803,
+              "runtime": "2 ms",
+              "memory": "46.3 MB",
               "githubPath": "LeetCode/Array/Median of Two Sorted Arrays/"
             }
           }
@@ -95,7 +95,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341317746,
+              "syncedAt": 1786094737574,
               "runtime": "1 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Math/Reverse Integer/"
@@ -113,578 +113,10 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341317746,
+              "syncedAt": 1786341341045,
               "runtime": "0 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Math/Stone Removal Game/"
-            }
-          }
-        },
-        "valid-sudoku": {
-          "questionId": "36",
-          "title": "Valid Sudoku",
-          "titleSlug": "valid-sudoku",
-          "difficulty": "Medium",
-          "tags": [
-            "Array",
-            "Hash Table",
-            "Matrix"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1786341317746,
-              "runtime": "16 ms",
-              "memory": "52.2 MB",
-              "githubPath": "LeetCode/Array/Valid Sudoku/"
-            }
-          }
-        },
-        "stone-game-iv": {
-          "questionId": "1510",
-          "title": "Stone Game IV",
-          "titleSlug": "stone-game-iv",
-          "difficulty": "Hard",
-          "tags": [
-            "Math",
-            "Dynamic Programming",
-            "Minimax",
-            "Game Theory",
-            "Nim Game",
-            "Sprague–Grundy Theorem",
-            "Zero-Sum Game"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1786341317746,
-              "runtime": "14 ms",
-              "memory": "42.6 MB",
-              "githubPath": "LeetCode/Math/Stone Game IV/"
-            }
-          }
-        },
-        "product-of-array-except-self": {
-          "questionId": "238",
-          "title": "Product of Array Except Self",
-          "titleSlug": "product-of-array-except-self",
-          "difficulty": "Medium",
-          "tags": [
-            "Array",
-            "Prefix Sum"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1786341328660,
-              "runtime": "2 ms",
-              "memory": "72.3 MB",
-              "githubPath": "LeetCode/Array/Product of Array Except Self/"
-            }
-          }
-        },
-        "find-pivot-index": {
-          "questionId": "724",
-          "title": "Find Pivot Index",
-          "titleSlug": "find-pivot-index",
-          "difficulty": "Easy",
-          "tags": [
-            "Array",
-            "Prefix Sum"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1786341328660,
-              "runtime": "1 ms",
-              "memory": "47.4 MB",
-              "githubPath": "LeetCode/Array/Find Pivot Index/"
-            }
-          }
-        },
-        "maximum-product-of-two-elements-in-an-array": {
-          "questionId": "1464",
-          "title": "Maximum Product of Two Elements in an Array",
-          "titleSlug": "maximum-product-of-two-elements-in-an-array",
-          "difficulty": "Easy",
-          "tags": [
-            "Array",
-            "Sorting",
-            "Heap (Priority Queue)"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1786341328660,
-              "runtime": "5 ms",
-              "memory": "44.7 MB",
-              "githubPath": "LeetCode/Array/Maximum Product of Two Elements in an Array/"
-            }
-          }
-        },
-        "spiral-matrix": {
-          "questionId": "54",
-          "title": "Spiral Matrix",
-          "titleSlug": "spiral-matrix",
-          "difficulty": "Medium",
-          "tags": [
-            "Array",
-            "Matrix",
-            "Simulation"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1786341328660,
-              "runtime": "0 ms",
-              "memory": "43.3 MB",
-              "githubPath": "LeetCode/Array/Spiral Matrix/"
-            }
-          }
-        },
-        "repeated-substring-pattern": {
-          "questionId": "459",
-          "title": "Repeated Substring Pattern",
-          "titleSlug": "repeated-substring-pattern",
-          "difficulty": "Easy",
-          "tags": [
-            "String",
-            "String Matching",
-            "Z Algorithm",
-            "Knuth–Morris–Pratt Algorithm"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1786341328660,
-              "runtime": "33 ms",
-              "memory": "47 MB",
-              "githubPath": "LeetCode/String/Repeated Substring Pattern/"
-            }
-          }
-        },
-        "jump-game": {
-          "questionId": "55",
-          "title": "Jump Game",
-          "titleSlug": "jump-game",
-          "difficulty": "Medium",
-          "tags": [
-            "Array",
-            "Dynamic Programming",
-            "Greedy"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1786341328660,
-              "runtime": "2 ms",
-              "memory": "48 MB",
-              "githubPath": "LeetCode/Array/Jump Game/"
-            }
-          }
-        },
-        "best-time-to-buy-and-sell-stock": {
-          "questionId": "121",
-          "title": "Best Time to Buy and Sell Stock",
-          "titleSlug": "best-time-to-buy-and-sell-stock",
-          "difficulty": "Easy",
-          "tags": [
-            "Array",
-            "Dynamic Programming"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1786341328660,
-              "runtime": "2 ms",
-              "memory": "94.7 MB",
-              "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock/"
-            }
-          }
-        },
-        "remove-element": {
-          "questionId": "27",
-          "title": "Remove Element",
-          "titleSlug": "remove-element",
-          "difficulty": "Easy",
-          "tags": [
-            "Array",
-            "Two Pointers"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1786341328660,
-              "runtime": "0 ms",
-              "memory": "43.6 MB",
-              "githubPath": "LeetCode/Array/Remove Element/"
-            }
-          }
-        },
-        "recyclable-and-low-fat-products": {
-          "questionId": "1757",
-          "title": "Recyclable and Low Fat Products",
-          "titleSlug": "recyclable-and-low-fat-products",
-          "difficulty": "Easy",
-          "tags": [
-            "Database"
-          ],
-          "solutions": {
-            "mysql": {
-              "syncedAt": 1786341328660,
-              "runtime": "581 ms",
-              "memory": "0.0B",
-              "githubPath": "LeetCode/Database/Recyclable and Low Fat Products/"
-            }
-          }
-        },
-        "minimum-size-subarray-sum": {
-          "questionId": "209",
-          "title": "Minimum Size Subarray Sum",
-          "titleSlug": "minimum-size-subarray-sum",
-          "difficulty": "Medium",
-          "tags": [
-            "Array",
-            "Binary Search",
-            "Sliding Window",
-            "Prefix Sum"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1786341328660,
-              "runtime": "1 ms",
-              "memory": "69.2 MB",
-              "githubPath": "LeetCode/Array/Minimum Size Subarray Sum/"
-            }
-          }
-        },
-        "factorial-trailing-zeroes": {
-          "questionId": "172",
-          "title": "Factorial Trailing Zeroes",
-          "titleSlug": "factorial-trailing-zeroes",
-          "difficulty": "Medium",
-          "tags": [
-            "Math"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1786341328660,
-              "runtime": "0 ms",
-              "memory": "42.3 MB",
-              "githubPath": "LeetCode/Math/Factorial Trailing Zeroes/"
-            }
-          }
-        },
-        "valid-triangle-number": {
-          "questionId": "611",
-          "title": "Valid Triangle Number",
-          "titleSlug": "valid-triangle-number",
-          "difficulty": "Medium",
-          "tags": [
-            "Array",
-            "Two Pointers",
-            "Binary Search",
-            "Greedy",
-            "Sorting"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1786341328660,
-              "runtime": "27 ms",
-              "memory": "45.6 MB",
-              "githubPath": "LeetCode/Array/Valid Triangle Number/"
-            }
-          }
-        },
-        "maximum-sum-circular-subarray": {
-          "questionId": "918",
-          "title": "Maximum Sum Circular Subarray",
-          "titleSlug": "maximum-sum-circular-subarray",
-          "difficulty": "Medium",
-          "tags": [
-            "Array",
-            "Divide and Conquer",
-            "Dynamic Programming",
-            "Queue",
-            "Monotonic Queue"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1786341328660,
-              "runtime": "8 ms",
-              "memory": "51 MB",
-              "githubPath": "LeetCode/Array/Maximum Sum Circular Subarray/"
-            }
-          }
-        },
-        "is-subsequence": {
-          "questionId": "392",
-          "title": "Is Subsequence",
-          "titleSlug": "is-subsequence",
-          "difficulty": "Easy",
-          "tags": [
-            "Two Pointers",
-            "String",
-            "Dynamic Programming"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1786341328660,
-              "runtime": "2 ms",
-              "memory": "42.7 MB",
-              "githubPath": "LeetCode/Two Pointers/Is Subsequence/"
-            }
-          }
-        },
-        "majority-element": {
-          "questionId": "169",
-          "title": "Majority Element",
-          "titleSlug": "majority-element",
-          "difficulty": "Easy",
-          "tags": [
-            "Array",
-            "Hash Table",
-            "Divide and Conquer",
-            "Sorting",
-            "Counting",
-            "Boyer–Moore Majority Vote Algorithm"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1786341333774,
-              "runtime": "12 ms",
-              "memory": "52.7 MB",
-              "githubPath": "LeetCode/Array/Majority Element/"
-            }
-          }
-        },
-        "remove-duplicates-from-sorted-array": {
-          "questionId": "26",
-          "title": "Remove Duplicates from Sorted Array",
-          "titleSlug": "remove-duplicates-from-sorted-array",
-          "difficulty": "Easy",
-          "tags": [
-            "Array",
-            "Two Pointers"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1786341333774,
-              "runtime": "1 ms",
-              "memory": "46.5 MB",
-              "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array/"
-            }
-          }
-        },
-        "nth-digit": {
-          "questionId": "400",
-          "title": "Nth Digit",
-          "titleSlug": "nth-digit",
-          "difficulty": "Medium",
-          "tags": [
-            "Math",
-            "Binary Search"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1786341333774,
-              "runtime": "0 ms",
-              "memory": "42.2 MB",
-              "githubPath": "LeetCode/Math/Nth Digit/"
-            }
-          }
-        },
-        "not-boring-movies": {
-          "questionId": "620",
-          "title": "Not Boring Movies",
-          "titleSlug": "not-boring-movies",
-          "difficulty": "Easy",
-          "tags": [
-            "Database"
-          ],
-          "solutions": {
-            "mysql": {
-              "syncedAt": 1786341333774,
-              "runtime": "276 ms",
-              "memory": "0.0B",
-              "githubPath": "LeetCode/Database/Not Boring Movies/"
-            }
-          }
-        },
-        "maximum-subarray": {
-          "questionId": "53",
-          "title": "Maximum Subarray",
-          "titleSlug": "maximum-subarray",
-          "difficulty": "Medium",
-          "tags": [
-            "Array",
-            "Divide and Conquer",
-            "Dynamic Programming"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1786341333774,
-              "runtime": "1 ms",
-              "memory": "80.9 MB",
-              "githubPath": "LeetCode/Array/Maximum Subarray/"
-            }
-          }
-        },
-        "minimum-moves-to-equal-array-elements-ii": {
-          "questionId": "462",
-          "title": "Minimum Moves to Equal Array Elements II",
-          "titleSlug": "minimum-moves-to-equal-array-elements-ii",
-          "difficulty": "Medium",
-          "tags": [
-            "Array",
-            "Math",
-            "Sorting"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1786341333774,
-              "runtime": "11 ms",
-              "memory": "47.2 MB",
-              "githubPath": "LeetCode/Array/Minimum Moves to Equal Array Elements II/"
-            }
-          }
-        },
-        "integer-break": {
-          "questionId": "343",
-          "title": "Integer Break",
-          "titleSlug": "integer-break",
-          "difficulty": "Medium",
-          "tags": [
-            "Math",
-            "Dynamic Programming"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1786341333774,
-              "runtime": "0 ms",
-              "memory": "41.9 MB",
-              "githubPath": "LeetCode/Math/Integer Break/"
-            }
-          }
-        },
-        "bulb-switcher": {
-          "questionId": "319",
-          "title": "Bulb Switcher",
-          "titleSlug": "bulb-switcher",
-          "difficulty": "Medium",
-          "tags": [
-            "Math",
-            "Brainteaser"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1786341339750,
-              "runtime": "0 ms",
-              "memory": "42.2 MB",
-              "githubPath": "LeetCode/Math/Bulb Switcher/"
-            }
-          }
-        },
-        "roman-to-integer": {
-          "questionId": "13",
-          "title": "Roman to Integer",
-          "titleSlug": "roman-to-integer",
-          "difficulty": "Easy",
-          "tags": [
-            "Hash Table",
-            "Math",
-            "String"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1786341339750,
-              "runtime": "4 ms",
-              "memory": "46.6 MB",
-              "githubPath": "LeetCode/Hash Table/Roman to Integer/"
-            }
-          }
-        },
-        "isomorphic-strings": {
-          "questionId": "205",
-          "title": "Isomorphic Strings",
-          "titleSlug": "isomorphic-strings",
-          "difficulty": "Easy",
-          "tags": [
-            "Hash Table",
-            "String"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1786341339750,
-              "runtime": "8 ms",
-              "memory": "43.9 MB",
-              "githubPath": "LeetCode/Hash Table/Isomorphic Strings/"
-            }
-          }
-        },
-        "kids-with-the-greatest-number-of-candies": {
-          "questionId": "1431",
-          "title": "Kids With the Greatest Number of Candies",
-          "titleSlug": "kids-with-the-greatest-number-of-candies",
-          "difficulty": "Easy",
-          "tags": [
-            "Array"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1786341339750,
-              "runtime": "1 ms",
-              "memory": "44.1 MB",
-              "githubPath": "LeetCode/Array/Kids With the Greatest Number of Candies/"
-            }
-          }
-        },
-        "intersection-of-two-arrays": {
-          "questionId": "349",
-          "title": "Intersection of Two Arrays",
-          "titleSlug": "intersection-of-two-arrays",
-          "difficulty": "Easy",
-          "tags": [
-            "Array",
-            "Hash Table",
-            "Two Pointers",
-            "Binary Search",
-            "Sorting"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1786341339750,
-              "runtime": "4 ms",
-              "memory": "45.3 MB",
-              "githubPath": "LeetCode/Array/Intersection of Two Arrays/"
-            }
-          }
-        },
-        "fizz-buzz": {
-          "questionId": "412",
-          "title": "Fizz Buzz",
-          "titleSlug": "fizz-buzz",
-          "difficulty": "Easy",
-          "tags": [
-            "Math",
-            "String",
-            "Simulation"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1786341339750,
-              "runtime": "1 ms",
-              "memory": "47 MB",
-              "githubPath": "LeetCode/Math/Fizz Buzz/"
-            }
-          }
-        },
-        "find-all-duplicates-in-an-array": {
-          "questionId": "442",
-          "title": "Find All Duplicates in an Array",
-          "titleSlug": "find-all-duplicates-in-an-array",
-          "difficulty": "Medium",
-          "tags": [
-            "Array",
-            "Hash Table",
-            "Sorting"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1786341339750,
-              "runtime": "5 ms",
-              "memory": "57.7 MB",
-              "githubPath": "LeetCode/Array/Find All Duplicates in an Array/"
             }
           }
         }
