@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T05:55:17.746Z",
+  "lastUpdated": "2026-08-10T05:55:28.660Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -15,9 +15,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786085568061,
-              "runtime": "42 ms",
-              "memory": "47.2 MB",
+              "syncedAt": 1786341328659,
+              "runtime": "44 ms",
+              "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Two Sum/"
             }
           }
@@ -159,6 +159,270 @@
               "runtime": "14 ms",
               "memory": "42.6 MB",
               "githubPath": "LeetCode/Math/Stone Game IV/"
+            }
+          }
+        },
+        "product-of-array-except-self": {
+          "questionId": "238",
+          "title": "Product of Array Except Self",
+          "titleSlug": "product-of-array-except-self",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341328660,
+              "runtime": "2 ms",
+              "memory": "72.3 MB",
+              "githubPath": "LeetCode/Array/Product of Array Except Self/"
+            }
+          }
+        },
+        "find-pivot-index": {
+          "questionId": "724",
+          "title": "Find Pivot Index",
+          "titleSlug": "find-pivot-index",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341328660,
+              "runtime": "1 ms",
+              "memory": "47.4 MB",
+              "githubPath": "LeetCode/Array/Find Pivot Index/"
+            }
+          }
+        },
+        "maximum-product-of-two-elements-in-an-array": {
+          "questionId": "1464",
+          "title": "Maximum Product of Two Elements in an Array",
+          "titleSlug": "maximum-product-of-two-elements-in-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sorting",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341328660,
+              "runtime": "5 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Array/Maximum Product of Two Elements in an Array/"
+            }
+          }
+        },
+        "spiral-matrix": {
+          "questionId": "54",
+          "title": "Spiral Matrix",
+          "titleSlug": "spiral-matrix",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341328660,
+              "runtime": "0 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/Array/Spiral Matrix/"
+            }
+          }
+        },
+        "repeated-substring-pattern": {
+          "questionId": "459",
+          "title": "Repeated Substring Pattern",
+          "titleSlug": "repeated-substring-pattern",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "String Matching",
+            "Z Algorithm",
+            "Knuth–Morris–Pratt Algorithm"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341328660,
+              "runtime": "33 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/String/Repeated Substring Pattern/"
+            }
+          }
+        },
+        "jump-game": {
+          "questionId": "55",
+          "title": "Jump Game",
+          "titleSlug": "jump-game",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341328660,
+              "runtime": "2 ms",
+              "memory": "48 MB",
+              "githubPath": "LeetCode/Array/Jump Game/"
+            }
+          }
+        },
+        "best-time-to-buy-and-sell-stock": {
+          "questionId": "121",
+          "title": "Best Time to Buy and Sell Stock",
+          "titleSlug": "best-time-to-buy-and-sell-stock",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341328660,
+              "runtime": "2 ms",
+              "memory": "94.7 MB",
+              "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock/"
+            }
+          }
+        },
+        "remove-element": {
+          "questionId": "27",
+          "title": "Remove Element",
+          "titleSlug": "remove-element",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341328660,
+              "runtime": "0 ms",
+              "memory": "43.6 MB",
+              "githubPath": "LeetCode/Array/Remove Element/"
+            }
+          }
+        },
+        "recyclable-and-low-fat-products": {
+          "questionId": "1757",
+          "title": "Recyclable and Low Fat Products",
+          "titleSlug": "recyclable-and-low-fat-products",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1786341328660,
+              "runtime": "581 ms",
+              "memory": "0.0B",
+              "githubPath": "LeetCode/Database/Recyclable and Low Fat Products/"
+            }
+          }
+        },
+        "minimum-size-subarray-sum": {
+          "questionId": "209",
+          "title": "Minimum Size Subarray Sum",
+          "titleSlug": "minimum-size-subarray-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341328660,
+              "runtime": "1 ms",
+              "memory": "69.2 MB",
+              "githubPath": "LeetCode/Array/Minimum Size Subarray Sum/"
+            }
+          }
+        },
+        "factorial-trailing-zeroes": {
+          "questionId": "172",
+          "title": "Factorial Trailing Zeroes",
+          "titleSlug": "factorial-trailing-zeroes",
+          "difficulty": "Medium",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341328660,
+              "runtime": "0 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Math/Factorial Trailing Zeroes/"
+            }
+          }
+        },
+        "valid-triangle-number": {
+          "questionId": "611",
+          "title": "Valid Triangle Number",
+          "titleSlug": "valid-triangle-number",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Binary Search",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341328660,
+              "runtime": "27 ms",
+              "memory": "45.6 MB",
+              "githubPath": "LeetCode/Array/Valid Triangle Number/"
+            }
+          }
+        },
+        "maximum-sum-circular-subarray": {
+          "questionId": "918",
+          "title": "Maximum Sum Circular Subarray",
+          "titleSlug": "maximum-sum-circular-subarray",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Divide and Conquer",
+            "Dynamic Programming",
+            "Queue",
+            "Monotonic Queue"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341328660,
+              "runtime": "8 ms",
+              "memory": "51 MB",
+              "githubPath": "LeetCode/Array/Maximum Sum Circular Subarray/"
+            }
+          }
+        },
+        "is-subsequence": {
+          "questionId": "392",
+          "title": "Is Subsequence",
+          "titleSlug": "is-subsequence",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341328660,
+              "runtime": "2 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Two Pointers/Is Subsequence/"
             }
           }
         }
