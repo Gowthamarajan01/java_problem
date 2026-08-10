@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Gowthathamarajan_pommusamy?theme=tokyonight&show=graph,recent&v=1786341333774" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Gowthathamarajan_pommusamy?theme=tokyonight&show=graph,recent&v=1786341339751" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -28,10 +28,13 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 169 | [Majority Element](./Array/Majority%20Element/) | Easy |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
+| 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
+| 442 | [Find All Duplicates in an Array](./Array/Find%20All%20Duplicates%20in%20an%20Array/) | Medium |
 | 462 | [Minimum Moves to Equal Array Elements II](./Array/Minimum%20Moves%20to%20Equal%20Array%20Elements%20II/) | Medium |
 | 611 | [Valid Triangle Number](./Array/Valid%20Triangle%20Number/) | Medium |
 | 724 | [Find Pivot Index](./Array/Find%20Pivot%20Index/) | Easy |
 | 918 | [Maximum Sum Circular Subarray](./Array/Maximum%20Sum%20Circular%20Subarray/) | Medium |
+| 1431 | [Kids With the Greatest Number of Candies](./Array/Kids%20With%20the%20Greatest%20Number%20of%20Candies/) | Easy |
 | 1464 | [Maximum Product of Two Elements in an Array](./Array/Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/) | Easy |
 
 </details>
@@ -56,6 +59,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
+| 13 | [Roman to Integer](./Hash%20Table/Roman%20to%20Integer/) | Easy |
+| 205 | [Isomorphic Strings](./Hash%20Table/Isomorphic%20Strings/) | Easy |
 
 </details>
 
@@ -79,8 +84,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 7 | [Reverse Integer](./Math/Reverse%20Integer/) | Medium |
 | 172 | [Factorial Trailing Zeroes](./Math/Factorial%20Trailing%20Zeroes/) | Medium |
+| 319 | [Bulb Switcher](./Math/Bulb%20Switcher/) | Medium |
 | 343 | [Integer Break](./Math/Integer%20Break/) | Medium |
 | 400 | [Nth Digit](./Math/Nth%20Digit/) | Medium |
+| 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
 | 1510 | [Stone Game IV](./Math/Stone%20Game%20IV/) | Hard |
 | 3360 | [Stone Removal Game](./Math/Stone%20Removal%20Game/) | Easy |
 

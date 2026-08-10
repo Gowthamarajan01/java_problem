@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T05:55:33.774Z",
+  "lastUpdated": "2026-08-10T05:55:39.750Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -554,6 +554,137 @@
               "runtime": "0 ms",
               "memory": "41.9 MB",
               "githubPath": "LeetCode/Math/Integer Break/"
+            }
+          }
+        },
+        "bulb-switcher": {
+          "questionId": "319",
+          "title": "Bulb Switcher",
+          "titleSlug": "bulb-switcher",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Brainteaser"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341339750,
+              "runtime": "0 ms",
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/Math/Bulb Switcher/"
+            }
+          }
+        },
+        "roman-to-integer": {
+          "questionId": "13",
+          "title": "Roman to Integer",
+          "titleSlug": "roman-to-integer",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341339750,
+              "runtime": "4 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Hash Table/Roman to Integer/"
+            }
+          }
+        },
+        "isomorphic-strings": {
+          "questionId": "205",
+          "title": "Isomorphic Strings",
+          "titleSlug": "isomorphic-strings",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341339750,
+              "runtime": "8 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/Hash Table/Isomorphic Strings/"
+            }
+          }
+        },
+        "kids-with-the-greatest-number-of-candies": {
+          "questionId": "1431",
+          "title": "Kids With the Greatest Number of Candies",
+          "titleSlug": "kids-with-the-greatest-number-of-candies",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341339750,
+              "runtime": "1 ms",
+              "memory": "44.1 MB",
+              "githubPath": "LeetCode/Array/Kids With the Greatest Number of Candies/"
+            }
+          }
+        },
+        "intersection-of-two-arrays": {
+          "questionId": "349",
+          "title": "Intersection of Two Arrays",
+          "titleSlug": "intersection-of-two-arrays",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Two Pointers",
+            "Binary Search",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341339750,
+              "runtime": "4 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/Array/Intersection of Two Arrays/"
+            }
+          }
+        },
+        "fizz-buzz": {
+          "questionId": "412",
+          "title": "Fizz Buzz",
+          "titleSlug": "fizz-buzz",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341339750,
+              "runtime": "1 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Math/Fizz Buzz/"
+            }
+          }
+        },
+        "find-all-duplicates-in-an-array": {
+          "questionId": "442",
+          "title": "Find All Duplicates in an Array",
+          "titleSlug": "find-all-duplicates-in-an-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341339750,
+              "runtime": "5 ms",
+              "memory": "57.7 MB",
+              "githubPath": "LeetCode/Array/Find All Duplicates in an Array/"
             }
           }
         }
