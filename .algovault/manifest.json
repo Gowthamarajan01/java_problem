@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T05:58:29.424Z",
+  "lastUpdated": "2026-08-10T05:58:32.564Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -113,9 +113,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341317746,
+              "syncedAt": 1786341512564,
               "runtime": "0 ms",
-              "memory": "42.3 MB",
+              "memory": "41.7 MB",
               "githubPath": "LeetCode/Math/Stone Removal Game/"
             }
           }
@@ -155,9 +155,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341509424,
+              "syncedAt": 1786341317746,
               "runtime": "14 ms",
-              "memory": "42.4 MB",
+              "memory": "42.6 MB",
               "githubPath": "LeetCode/Math/Stone Game IV/"
             }
           }
