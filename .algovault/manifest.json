@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T05:56:23.278Z",
+  "lastUpdated": "2026-08-10T05:56:30.661Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -155,9 +155,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341383278,
+              "syncedAt": 1786341317746,
               "runtime": "14 ms",
-              "memory": "42.5 MB",
+              "memory": "42.6 MB",
               "githubPath": "LeetCode/Math/Stone Game IV/"
             }
           }
@@ -1765,6 +1765,314 @@
               "runtime": "19 ms",
               "memory": "88 MB",
               "githubPath": "LeetCode/Array/Make Sum Divisible by P/"
+            }
+          }
+        },
+        "greatest-sum-divisible-by-three": {
+          "questionId": "1262",
+          "title": "Greatest Sum Divisible by Three",
+          "titleSlug": "greatest-sum-divisible-by-three",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341390660,
+              "runtime": "15 ms",
+              "memory": "49.7 MB",
+              "githubPath": "LeetCode/Array/Greatest Sum Divisible by Three/"
+            }
+          }
+        },
+        "find-minimum-operations-to-make-all-elements-divisible-by-three": {
+          "questionId": "3190",
+          "title": "Find Minimum Operations to Make All Elements Divisible by Three",
+          "titleSlug": "find-minimum-operations-to-make-all-elements-divisible-by-three",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341390660,
+              "runtime": "0 ms",
+              "memory": "43.8 MB",
+              "githubPath": "LeetCode/Array/Find Minimum Operations to Make All Elements Divisible by Three/"
+            }
+          }
+        },
+        "unique-length-3-palindromic-subsequences": {
+          "questionId": "1930",
+          "title": "Unique Length-3 Palindromic Subsequences",
+          "titleSlug": "unique-length-3-palindromic-subsequences",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Bit Manipulation",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341390660,
+              "runtime": "30 ms",
+              "memory": "47.2 MB",
+              "githubPath": "LeetCode/Hash Table/Unique Length-3 Palindromic Subsequences/"
+            }
+          }
+        },
+        "set-intersection-size-at-least-two": {
+          "questionId": "757",
+          "title": "Set Intersection Size At Least Two",
+          "titleSlug": "set-intersection-size-at-least-two",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341390660,
+              "runtime": "9 ms",
+              "memory": "47.4 MB",
+              "githubPath": "LeetCode/Array/Set Intersection Size At Least Two/"
+            }
+          }
+        },
+        "keep-multiplying-found-values-by-two": {
+          "questionId": "2154",
+          "title": "Keep Multiplying Found Values by Two",
+          "titleSlug": "keep-multiplying-found-values-by-two",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341390660,
+              "runtime": "1 ms",
+              "memory": "45.6 MB",
+              "githubPath": "LeetCode/Array/Keep Multiplying Found Values by Two/"
+            }
+          }
+        },
+        "1-bit-and-2-bit-characters": {
+          "questionId": "717",
+          "title": "1-bit and 2-bit Characters",
+          "titleSlug": "1-bit-and-2-bit-characters",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341390660,
+              "runtime": "0 ms",
+              "memory": "44.6 MB",
+              "githubPath": "LeetCode/Array/1-bit and 2-bit Characters/"
+            }
+          }
+        },
+        "check-if-all-1s-are-at-least-length-k-places-away": {
+          "questionId": "1437",
+          "title": "Check If All 1's Are at Least Length K Places Away",
+          "titleSlug": "check-if-all-1s-are-at-least-length-k-places-away",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341390660,
+              "runtime": "1 ms",
+              "memory": "65.3 MB",
+              "githubPath": "LeetCode/Array/Check If All 1's Are at Least Length K Places Away/"
+            }
+          }
+        },
+        "number-of-substrings-with-only-1s": {
+          "questionId": "1513",
+          "title": "Number of Substrings With Only 1s",
+          "titleSlug": "number-of-substrings-with-only-1s",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341390660,
+              "runtime": "4 ms",
+              "memory": "46.1 MB",
+              "githubPath": "LeetCode/Math/Number of Substrings With Only 1s/"
+            }
+          }
+        },
+        "count-the-number-of-substrings-with-dominant-ones": {
+          "questionId": "3234",
+          "title": "Count the Number of Substrings With Dominant Ones",
+          "titleSlug": "count-the-number-of-substrings-with-dominant-ones",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341390661,
+              "runtime": "116 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/String/Count the Number of Substrings With Dominant Ones/"
+            }
+          }
+        },
+        "maximum-number-of-operations-to-move-ones-to-the-end": {
+          "questionId": "3228",
+          "title": "Maximum Number of Operations to Move Ones to the End",
+          "titleSlug": "maximum-number-of-operations-to-move-ones-to-the-end",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Greedy",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341390661,
+              "runtime": "7 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/String/Maximum Number of Operations to Move Ones to the End/"
+            }
+          }
+        },
+        "minimum-number-of-operations-to-make-all-array-elements-equal-to-1": {
+          "questionId": "2654",
+          "title": "Minimum Number of Operations to Make All Array Elements Equal to 1",
+          "titleSlug": "minimum-number-of-operations-to-make-all-array-elements-equal-to-1",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Number Theory",
+            "Euclidean Algorithm",
+            "Greatest Common Divisor"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341390661,
+              "runtime": "1 ms",
+              "memory": "44 MB",
+              "githubPath": "LeetCode/Array/Minimum Number of Operations to Make All Array Elements Equal to 1/"
+            }
+          }
+        },
+        "ones-and-zeroes": {
+          "questionId": "474",
+          "title": "Ones and Zeroes",
+          "titleSlug": "ones-and-zeroes",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "String",
+            "Dynamic Programming",
+            "Knapsack Problem",
+            "0-1 Knapsack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341390661,
+              "runtime": "20 ms",
+              "memory": "43.6 MB",
+              "githubPath": "LeetCode/Array/Ones and Zeroes/"
+            }
+          }
+        },
+        "count-operations-to-obtain-zero": {
+          "questionId": "2169",
+          "title": "Count Operations to Obtain Zero",
+          "titleSlug": "count-operations-to-obtain-zero",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341390661,
+              "runtime": "1 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Math/Count Operations to Obtain Zero/"
+            }
+          }
+        },
+        "minimum-one-bit-operations-to-make-integers-zero": {
+          "questionId": "1611",
+          "title": "Minimum One Bit Operations to Make Integers Zero",
+          "titleSlug": "minimum-one-bit-operations-to-make-integers-zero",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Bit Manipulation",
+            "Recursion",
+            "Memoization"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341390661,
+              "runtime": "0 ms",
+              "memory": "41.9 MB",
+              "githubPath": "LeetCode/Math/Minimum One Bit Operations to Make Integers Zero/"
+            }
+          }
+        },
+        "maximize-the-minimum-powered-city": {
+          "questionId": "2528",
+          "title": "Maximize the Minimum Powered City",
+          "titleSlug": "maximize-the-minimum-powered-city",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Greedy",
+            "Queue",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341390661,
+              "runtime": "29 ms",
+              "memory": "89.6 MB",
+              "githubPath": "LeetCode/Array/Maximize the Minimum Powered City/"
+            }
+          }
+        },
+        "add-strings": {
+          "questionId": "415",
+          "title": "Add Strings",
+          "titleSlug": "add-strings",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341390661,
+              "runtime": "19 ms",
+              "memory": "45.6 MB",
+              "githubPath": "LeetCode/Math/Add Strings/"
             }
           }
         }
