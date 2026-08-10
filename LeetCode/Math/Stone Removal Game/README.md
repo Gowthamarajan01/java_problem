@@ -5,54 +5,63 @@
 
 ## Problem Statement
 
-<p>Alice and Bob are playing a game where they take turns removing stones from a pile, with <em>Alice going first</em>.</p>
+Alice and Bob are playing a game where they take turns removing stones from a pile, with Alice going first.
 
-<ul>
-	<li>Alice starts by removing <strong>exactly</strong> 10 stones on her first turn.</li>
-	<li>For each subsequent turn, each player removes <strong>exactly</strong> 1 fewer<strong> </strong>stone<strong> </strong>than the previous opponent.</li>
-</ul>
 
-<p>The player who cannot make a move loses the game.</p>
+	Alice starts by removing exactly 10 stones on her first turn.
+	For each subsequent turn, each player removes exactly 1 fewer stone than the previous opponent.
 
-<p>Given a positive integer <code>n</code>, return <code>true</code> if Alice wins the game and <code>false</code> otherwise.</p>
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+The player who cannot make a move loses the game.
 
-<div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">n = 12</span></p>
+Given a positive integer n, return true if Alice wins the game and false otherwise.
 
-<p><strong>Output:</strong> <span class="example-io">true</span></p>
+ 
+Example 1:
 
-<p><strong>Explanation:</strong></p>
 
-<ul>
-	<li>Alice removes 10 stones on her first turn, leaving 2 stones for Bob.</li>
-	<li>Bob cannot remove 9 stones, so Alice wins.</li>
-</ul>
-</div>
+Input: n = 12
 
-<p><strong class="example">Example 2:</strong></p>
+Output: true
 
-<div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">n = 1</span></p>
+Explanation:
 
-<p><strong>Output:</strong> <span class="example-io">false</span></p>
 
-<p><strong>Explanation:</strong></p>
+	Alice removes 10 stones on her first turn, leaving 2 stones for Bob.
+	Bob cannot remove 9 stones, so Alice wins.
 
-<ul>
-	<li>Alice cannot remove 10 stones, so Alice loses.</li>
-</ul>
-</div>
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
 
-<ul>
-	<li><code>1 &lt;= n &lt;= 50</code></li>
-</ul>
+Example 2:
 
+
+Input: n = 1
+
+Output: false
+
+Explanation:
+
+
+	Alice cannot remove 10 stones, so Alice loses.
+
+
+
+ 
+Constraints:
+
+
+	1 <= n <= 50
+
+## Examples
+
+```
+See problem description.
+```
+
+## Constraints
+
+- Alice starts by removing exactly 10 stones on her first turn.
+- For each subsequent turn, each player removes exactly 1 fewer stone than the previous opponent.
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
