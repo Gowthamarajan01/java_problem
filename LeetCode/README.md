@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Gowthathamarajan_pommusamy?theme=tokyonight&show=graph,recent&v=1786341370518" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Gowthathamarajan_pommusamy?theme=tokyonight&show=graph,recent&v=1786341379714" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -21,6 +21,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 26 | [Remove Duplicates from Sorted Array](./Array/Remove%20Duplicates%20from%20Sorted%20Array/) | Easy |
 | 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
 | 36 | [Valid Sudoku](./Array/Valid%20Sudoku/) | Medium |
+| 42 | [Trapping Rain Water](./Array/Trapping%20Rain%20Water/) | Hard |
 | 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
 | 54 | [Spiral Matrix](./Array/Spiral%20Matrix/) | Medium |
 | 55 | [Jump Game](./Array/Jump%20Game/) | Medium |
@@ -29,6 +30,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 78 | [Subsets](./Array/Subsets/) | Medium |
 | 80 | [Remove Duplicates from Sorted Array II](./Array/Remove%20Duplicates%20from%20Sorted%20Array%20II/) | Medium |
 | 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
+| 136 | [Single Number](./Array/Single%20Number/) | Easy |
 | 169 | [Majority Element](./Array/Majority%20Element/) | Easy |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
@@ -36,10 +38,15 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 347 | [Top K Frequent Elements](./Array/Top%20K%20Frequent%20Elements/) | Medium |
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
 | 378 | [Kth Smallest Element in a Sorted Matrix](./Array/Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix/) | Medium |
+| 414 | [Third Maximum Number](./Array/Third%20Maximum%20Number/) | Easy |
 | 442 | [Find All Duplicates in an Array](./Array/Find%20All%20Duplicates%20in%20an%20Array/) | Medium |
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
 | 462 | [Minimum Moves to Equal Array Elements II](./Array/Minimum%20Moves%20to%20Equal%20Array%20Elements%20II/) | Medium |
 | 485 | [Max Consecutive Ones](./Array/Max%20Consecutive%20Ones/) | Easy |
+| 500 | [Keyboard Row](./Array/Keyboard%20Row/) | Easy |
+| 506 | [Relative Ranks](./Array/Relative%20Ranks/) | Easy |
+| 561 | [Array Partition](./Array/Array%20Partition/) | Easy |
+| 575 | [Distribute Candies](./Array/Distribute%20Candies/) | Easy |
 | 611 | [Valid Triangle Number](./Array/Valid%20Triangle%20Number/) | Medium |
 | 628 | [Maximum Product of Three Numbers](./Array/Maximum%20Product%20of%20Three%20Numbers/) | Easy |
 | 724 | [Find Pivot Index](./Array/Find%20Pivot%20Index/) | Easy |
@@ -49,13 +56,16 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1464 | [Maximum Product of Two Elements in an Array](./Array/Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/) | Easy |
 | 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
 | 1480 | [Running Sum of 1d Array](./Array/Running%20Sum%20of%201d%20Array/) | Easy |
+| 1503 | [Last Moment Before All Ants Fall Out of a Plank](./Array/Last%20Moment%20Before%20All%20Ants%20Fall%20Out%20of%20a%20Plank/) | Medium |
 | 1572 | [Matrix Diagonal Sum](./Array/Matrix%20Diagonal%20Sum/) | Easy |
+| 1590 | [Make Sum Divisible by P](./Array/Make%20Sum%20Divisible%20by%20P/) | Medium |
 | 1672 | [Richest Customer Wealth](./Array/Richest%20Customer%20Wealth/) | Easy |
 | 1920 | [Build Array from Permutation](./Array/Build%20Array%20from%20Permutation/) | Easy |
 | 1929 | [Concatenation of Array](./Array/Concatenation%20of%20Array/) | Easy |
 | 2011 | [Final Value of Variable After Performing Operations](./Array/Final%20Value%20of%20Variable%20After%20Performing%20Operations/) | Easy |
 | 2150 | [Find All Lonely Numbers in the Array](./Array/Find%20All%20Lonely%20Numbers%20in%20the%20Array/) | Medium |
 | 2215 | [Find the Difference of Two Arrays](./Array/Find%20the%20Difference%20of%20Two%20Arrays/) | Easy |
+| 3625 | [Count Number of Trapezoids II](./Array/Count%20Number%20of%20Trapezoids%20II/) | Hard |
 
 </details>
 
@@ -72,6 +82,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1148 | [Article Views I](./Database/Article%20Views%20I/) | Easy |
 | 1683 | [Invalid Tweets](./Database/Invalid%20Tweets/) | Easy |
 | 1757 | [Recyclable and Low Fat Products](./Database/Recyclable%20and%20Low%20Fat%20Products/) | Easy |
+
+</details>
+
+
+### Divide and Conquer
+<details>
+<summary>Click to expand Divide and Conquer problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 191 | [Number of 1 Bits](./Divide%20and%20Conquer/Number%20of%201%20Bits/) | Easy |
 
 </details>
 
@@ -111,6 +132,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 7 | [Reverse Integer](./Math/Reverse%20Integer/) | Medium |
+| 29 | [Divide Two Integers](./Math/Divide%20Two%20Integers/) | Medium |
 | 172 | [Factorial Trailing Zeroes](./Math/Factorial%20Trailing%20Zeroes/) | Medium |
 | 258 | [Add Digits](./Math/Add%20Digits/) | Easy |
 | 319 | [Bulb Switcher](./Math/Bulb%20Switcher/) | Medium |
@@ -141,6 +163,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 459 | [Repeated Substring Pattern](./String/Repeated%20Substring%20Pattern/) | Easy |
 | 1047 | [Remove All Adjacent Duplicates In String](./String/Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy |
 | 1544 | [Make The String Great](./String/Make%20The%20String%20Great/) | Easy |
+| 2211 | [Count Collisions on a Road](./String/Count%20Collisions%20on%20a%20Road/) | Medium |
 | 2390 | [Removing Stars From a String](./String/Removing%20Stars%20From%20a%20String/) | Medium |
 
 </details>
@@ -153,6 +176,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 28 | [Find the Index of the First Occurrence in a String](./Two%20Pointers/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/) | Easy |
+| 125 | [Valid Palindrome](./Two%20Pointers/Valid%20Palindrome/) | Easy |
+| 151 | [Reverse Words in a String](./Two%20Pointers/Reverse%20Words%20in%20a%20String/) | Medium |
 | 344 | [Reverse String](./Two%20Pointers/Reverse%20String/) | Easy |
 | 392 | [Is Subsequence](./Two%20Pointers/Is%20Subsequence/) | Easy |
 

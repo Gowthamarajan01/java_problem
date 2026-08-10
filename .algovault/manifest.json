@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T05:56:10.517Z",
+  "lastUpdated": "2026-08-10T05:56:19.712Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1483,6 +1483,288 @@
               "runtime": "0 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/Two Pointers/Find the Index of the First Occurrence in a String/"
+            }
+          }
+        },
+        "keyboard-row": {
+          "questionId": "500",
+          "title": "Keyboard Row",
+          "titleSlug": "keyboard-row",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341379712,
+              "runtime": "0 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Array/Keyboard Row/"
+            }
+          }
+        },
+        "reverse-words-in-a-string": {
+          "questionId": "151",
+          "title": "Reverse Words in a String",
+          "titleSlug": "reverse-words-in-a-string",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341379712,
+              "runtime": "7 ms",
+              "memory": "44 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse Words in a String/"
+            }
+          }
+        },
+        "valid-palindrome": {
+          "questionId": "125",
+          "title": "Valid Palindrome",
+          "titleSlug": "valid-palindrome",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341379712,
+              "runtime": "14 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/Two Pointers/Valid Palindrome/"
+            }
+          }
+        },
+        "relative-ranks": {
+          "questionId": "506",
+          "title": "Relative Ranks",
+          "titleSlug": "relative-ranks",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sorting",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341379712,
+              "runtime": "28 ms",
+              "memory": "48 MB",
+              "githubPath": "LeetCode/Array/Relative Ranks/"
+            }
+          }
+        },
+        "single-number": {
+          "questionId": "136",
+          "title": "Single Number",
+          "titleSlug": "single-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341379712,
+              "runtime": "1 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/Array/Single Number/"
+            }
+          }
+        },
+        "array-partition": {
+          "questionId": "561",
+          "title": "Array Partition",
+          "titleSlug": "array-partition",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Greedy",
+            "Sorting",
+            "Counting Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341379712,
+              "runtime": "17 ms",
+              "memory": "49.9 MB",
+              "githubPath": "LeetCode/Array/Array Partition/"
+            }
+          }
+        },
+        "distribute-candies": {
+          "questionId": "575",
+          "title": "Distribute Candies",
+          "titleSlug": "distribute-candies",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341379712,
+              "runtime": "30 ms",
+              "memory": "48.7 MB",
+              "githubPath": "LeetCode/Array/Distribute Candies/"
+            }
+          }
+        },
+        "third-maximum-number": {
+          "questionId": "414",
+          "title": "Third Maximum Number",
+          "titleSlug": "third-maximum-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341379712,
+              "runtime": "7 ms",
+              "memory": "45.5 MB",
+              "githubPath": "LeetCode/Array/Third Maximum Number/"
+            }
+          }
+        },
+        "number-of-1-bits": {
+          "questionId": "191",
+          "title": "Number of 1 Bits",
+          "titleSlug": "number-of-1-bits",
+          "difficulty": "Easy",
+          "tags": [
+            "Divide and Conquer",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341379712,
+              "runtime": "1 ms",
+              "memory": "42.5 MB",
+              "githubPath": "LeetCode/Divide and Conquer/Number of 1 Bits/"
+            }
+          }
+        },
+        "count-collisions-on-a-road": {
+          "questionId": "2211",
+          "title": "Count Collisions on a Road",
+          "titleSlug": "count-collisions-on-a-road",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Stack",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341379712,
+              "runtime": "10 ms",
+              "memory": "47.5 MB",
+              "githubPath": "LeetCode/String/Count Collisions on a Road/"
+            }
+          }
+        },
+        "last-moment-before-all-ants-fall-out-of-a-plank": {
+          "questionId": "1503",
+          "title": "Last Moment Before All Ants Fall Out of a Plank",
+          "titleSlug": "last-moment-before-all-ants-fall-out-of-a-plank",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Brainteaser",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341379712,
+              "runtime": "0 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Array/Last Moment Before All Ants Fall Out of a Plank/"
+            }
+          }
+        },
+        "divide-two-integers": {
+          "questionId": "29",
+          "title": "Divide Two Integers",
+          "titleSlug": "divide-two-integers",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341379712,
+              "runtime": "0 ms",
+              "memory": "42.5 MB",
+              "githubPath": "LeetCode/Math/Divide Two Integers/"
+            }
+          }
+        },
+        "trapping-rain-water": {
+          "questionId": "42",
+          "title": "Trapping Rain Water",
+          "titleSlug": "trapping-rain-water",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Dynamic Programming",
+            "Stack",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341379712,
+              "runtime": "0 ms",
+              "memory": "47.5 MB",
+              "githubPath": "LeetCode/Array/Trapping Rain Water/"
+            }
+          }
+        },
+        "count-number-of-trapezoids-ii": {
+          "questionId": "3625",
+          "title": "Count Number of Trapezoids II",
+          "titleSlug": "count-number-of-trapezoids-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Geometry"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341379712,
+              "runtime": "591 ms",
+              "memory": "282.6 MB",
+              "githubPath": "LeetCode/Array/Count Number of Trapezoids II/"
+            }
+          }
+        },
+        "make-sum-divisible-by-p": {
+          "questionId": "1590",
+          "title": "Make Sum Divisible by P",
+          "titleSlug": "make-sum-divisible-by-p",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341379712,
+              "runtime": "19 ms",
+              "memory": "88 MB",
+              "githubPath": "LeetCode/Array/Make Sum Divisible by P/"
             }
           }
         }
