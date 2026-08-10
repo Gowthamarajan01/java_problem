@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T06:03:29.809Z",
+  "lastUpdated": "2026-08-10T06:17:25.969Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3509,6 +3509,26 @@
               "runtime": "5 ms",
               "memory": "44.2 MB",
               "githubPath": "LeetCode/Math/Palindrome Number/"
+            }
+          }
+        },
+        "group-anagrams": {
+          "questionId": "49",
+          "title": "Group Anagrams",
+          "titleSlug": "group-anagrams",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786342645968,
+              "runtime": "6 ms",
+              "memory": "49.5 MB",
+              "githubPath": "LeetCode/Array/Group Anagrams/"
             }
           }
         }
