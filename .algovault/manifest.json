@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T05:56:02.299Z",
+  "lastUpdated": "2026-08-10T05:56:10.517Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1275,6 +1275,214 @@
               "runtime": "0 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/Array/Shuffle the Array/"
+            }
+          }
+        },
+        "concatenation-of-array": {
+          "questionId": "1929",
+          "title": "Concatenation of Array",
+          "titleSlug": "concatenation-of-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341370517,
+              "runtime": "5 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Array/Concatenation of Array/"
+            }
+          }
+        },
+        "running-sum-of-1d-array": {
+          "questionId": "1480",
+          "title": "Running Sum of 1d Array",
+          "titleSlug": "running-sum-of-1d-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341370517,
+              "runtime": "0 ms",
+              "memory": "44.3 MB",
+              "githubPath": "LeetCode/Array/Running Sum of 1d Array/"
+            }
+          }
+        },
+        "set-matrix-zeroes": {
+          "questionId": "73",
+          "title": "Set Matrix Zeroes",
+          "titleSlug": "set-matrix-zeroes",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341370517,
+              "runtime": "0 ms",
+              "memory": "47.4 MB",
+              "githubPath": "LeetCode/Array/Set Matrix Zeroes/"
+            }
+          }
+        },
+        "search-a-2d-matrix": {
+          "questionId": "74",
+          "title": "Search a 2D Matrix",
+          "titleSlug": "search-a-2d-matrix",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341370517,
+              "runtime": "0 ms",
+              "memory": "44 MB",
+              "githubPath": "LeetCode/Array/Search a 2D Matrix/"
+            }
+          }
+        },
+        "max-consecutive-ones": {
+          "questionId": "485",
+          "title": "Max Consecutive Ones",
+          "titleSlug": "max-consecutive-ones",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341370517,
+              "runtime": "3 ms",
+              "memory": "52.5 MB",
+              "githubPath": "LeetCode/Array/Max Consecutive Ones/"
+            }
+          }
+        },
+        "maximum-product-of-three-numbers": {
+          "questionId": "628",
+          "title": "Maximum Product of Three Numbers",
+          "titleSlug": "maximum-product-of-three-numbers",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341370517,
+              "runtime": "16 ms",
+              "memory": "48.3 MB",
+              "githubPath": "LeetCode/Array/Maximum Product of Three Numbers/"
+            }
+          }
+        },
+        "kth-smallest-element-in-a-sorted-matrix": {
+          "questionId": "378",
+          "title": "Kth Smallest Element in a Sorted Matrix",
+          "titleSlug": "kth-smallest-element-in-a-sorted-matrix",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341370517,
+              "runtime": "16 ms",
+              "memory": "51.9 MB",
+              "githubPath": "LeetCode/Array/Kth Smallest Element in a Sorted Matrix/"
+            }
+          }
+        },
+        "matrix-diagonal-sum": {
+          "questionId": "1572",
+          "title": "Matrix Diagonal Sum",
+          "titleSlug": "matrix-diagonal-sum",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341370517,
+              "runtime": "1 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Array/Matrix Diagonal Sum/"
+            }
+          }
+        },
+        "transpose-matrix": {
+          "questionId": "867",
+          "title": "Transpose Matrix",
+          "titleSlug": "transpose-matrix",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341370517,
+              "runtime": "0 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Array/Transpose Matrix/"
+            }
+          }
+        },
+        "richest-customer-wealth": {
+          "questionId": "1672",
+          "title": "Richest Customer Wealth",
+          "titleSlug": "richest-customer-wealth",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341370517,
+              "runtime": "0 ms",
+              "memory": "44.9 MB",
+              "githubPath": "LeetCode/Array/Richest Customer Wealth/"
+            }
+          }
+        },
+        "find-the-index-of-the-first-occurrence-in-a-string": {
+          "questionId": "28",
+          "title": "Find the Index of the First Occurrence in a String",
+          "titleSlug": "find-the-index-of-the-first-occurrence-in-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "String Matching",
+            "Z Algorithm",
+            "Knuth–Morris–Pratt Algorithm",
+            "Boyer–Moore String-Search Algorithm"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341370517,
+              "runtime": "0 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Two Pointers/Find the Index of the First Occurrence in a String/"
             }
           }
         }

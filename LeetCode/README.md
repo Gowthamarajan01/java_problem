@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Gowthathamarajan_pommusamy?theme=tokyonight&show=graph,recent&v=1786341362301" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Gowthathamarajan_pommusamy?theme=tokyonight&show=graph,recent&v=1786341370518" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -24,6 +24,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 53 | [Maximum Subarray](./Array/Maximum%20Subarray/) | Medium |
 | 54 | [Spiral Matrix](./Array/Spiral%20Matrix/) | Medium |
 | 55 | [Jump Game](./Array/Jump%20Game/) | Medium |
+| 73 | [Set Matrix Zeroes](./Array/Set%20Matrix%20Zeroes/) | Medium |
+| 74 | [Search a 2D Matrix](./Array/Search%20a%202D%20Matrix/) | Medium |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
 | 80 | [Remove Duplicates from Sorted Array II](./Array/Remove%20Duplicates%20from%20Sorted%20Array%20II/) | Medium |
 | 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
@@ -33,16 +35,24 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 268 | [Missing Number](./Array/Missing%20Number/) | Easy |
 | 347 | [Top K Frequent Elements](./Array/Top%20K%20Frequent%20Elements/) | Medium |
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
+| 378 | [Kth Smallest Element in a Sorted Matrix](./Array/Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix/) | Medium |
 | 442 | [Find All Duplicates in an Array](./Array/Find%20All%20Duplicates%20in%20an%20Array/) | Medium |
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
 | 462 | [Minimum Moves to Equal Array Elements II](./Array/Minimum%20Moves%20to%20Equal%20Array%20Elements%20II/) | Medium |
+| 485 | [Max Consecutive Ones](./Array/Max%20Consecutive%20Ones/) | Easy |
 | 611 | [Valid Triangle Number](./Array/Valid%20Triangle%20Number/) | Medium |
+| 628 | [Maximum Product of Three Numbers](./Array/Maximum%20Product%20of%20Three%20Numbers/) | Easy |
 | 724 | [Find Pivot Index](./Array/Find%20Pivot%20Index/) | Easy |
+| 867 | [Transpose Matrix](./Array/Transpose%20Matrix/) | Easy |
 | 918 | [Maximum Sum Circular Subarray](./Array/Maximum%20Sum%20Circular%20Subarray/) | Medium |
 | 1431 | [Kids With the Greatest Number of Candies](./Array/Kids%20With%20the%20Greatest%20Number%20of%20Candies/) | Easy |
 | 1464 | [Maximum Product of Two Elements in an Array](./Array/Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array/) | Easy |
 | 1470 | [Shuffle the Array](./Array/Shuffle%20the%20Array/) | Easy |
+| 1480 | [Running Sum of 1d Array](./Array/Running%20Sum%20of%201d%20Array/) | Easy |
+| 1572 | [Matrix Diagonal Sum](./Array/Matrix%20Diagonal%20Sum/) | Easy |
+| 1672 | [Richest Customer Wealth](./Array/Richest%20Customer%20Wealth/) | Easy |
 | 1920 | [Build Array from Permutation](./Array/Build%20Array%20from%20Permutation/) | Easy |
+| 1929 | [Concatenation of Array](./Array/Concatenation%20of%20Array/) | Easy |
 | 2011 | [Final Value of Variable After Performing Operations](./Array/Final%20Value%20of%20Variable%20After%20Performing%20Operations/) | Easy |
 | 2150 | [Find All Lonely Numbers in the Array](./Array/Find%20All%20Lonely%20Numbers%20in%20the%20Array/) | Medium |
 | 2215 | [Find the Difference of Two Arrays](./Array/Find%20the%20Difference%20of%20Two%20Arrays/) | Easy |
@@ -142,6 +152,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 28 | [Find the Index of the First Occurrence in a String](./Two%20Pointers/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/) | Easy |
 | 344 | [Reverse String](./Two%20Pointers/Reverse%20String/) | Easy |
 | 392 | [Is Subsequence](./Two%20Pointers/Is%20Subsequence/) | Easy |
 
