@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T05:57:21.025Z",
+  "lastUpdated": "2026-08-10T05:57:27.781Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3373,6 +3373,142 @@
               "runtime": "0 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/Array/Search Insert Position/"
+            }
+          }
+        },
+        "longest-common-prefix": {
+          "questionId": "14",
+          "title": "Longest Common Prefix",
+          "titleSlug": "longest-common-prefix",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String",
+            "Trie"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341447781,
+              "runtime": "0 ms",
+              "memory": "41.6 MB",
+              "githubPath": "LeetCode/Array/Longest Common Prefix/"
+            }
+          }
+        },
+        "nim-game": {
+          "questionId": "292",
+          "title": "Nim Game",
+          "titleSlug": "nim-game",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Brainteaser",
+            "Minimax",
+            "Game Theory",
+            "Nim Game",
+            "Impartial Game"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341447781,
+              "runtime": "0 ms",
+              "memory": "40.5 MB",
+              "githubPath": "LeetCode/Math/Nim Game/"
+            }
+          }
+        },
+        "4sum": {
+          "questionId": "18",
+          "title": "4Sum",
+          "titleSlug": "4sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341447781,
+              "runtime": "18 ms",
+              "memory": "44.3 MB",
+              "githubPath": "LeetCode/Array/4Sum/"
+            }
+          }
+        },
+        "3sum": {
+          "questionId": "15",
+          "title": "3Sum",
+          "titleSlug": "3sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341447781,
+              "runtime": "30 ms",
+              "memory": "51.6 MB",
+              "githubPath": "LeetCode/Array/3Sum/"
+            }
+          }
+        },
+        "monotonic-array": {
+          "questionId": "896",
+          "title": "Monotonic Array",
+          "titleSlug": "monotonic-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341447781,
+              "runtime": "3 ms",
+              "memory": "59.4 MB",
+              "githubPath": "LeetCode/Array/Monotonic Array/"
+            }
+          }
+        },
+        "ugly-number": {
+          "questionId": "263",
+          "title": "Ugly Number",
+          "titleSlug": "ugly-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341447781,
+              "runtime": "0 ms",
+              "memory": "41.3 MB",
+              "githubPath": "LeetCode/Math/Ugly Number/"
+            },
+            "cpp": {
+              "syncedAt": 1786341447781,
+              "runtime": "0 ms",
+              "memory": "7.9 MB",
+              "githubPath": "LeetCode/Math/Ugly Number/"
+            }
+          }
+        },
+        "palindrome-number": {
+          "questionId": "9",
+          "title": "Palindrome Number",
+          "titleSlug": "palindrome-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786341447781,
+              "runtime": "5 ms",
+              "memory": "44.2 MB",
+              "githubPath": "LeetCode/Math/Palindrome Number/"
             }
           }
         }
