@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T05:58:34.679Z",
+  "lastUpdated": "2026-08-10T05:58:36.923Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -117,12 +117,6 @@
               "runtime": "0 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Math/Stone Removal Game/"
-            },
-            "12345678910111213class solution {    public boolean canalicewin(int n) {        int a = 10;        boolean b = true;        while(n>=a){            n-=a;            a--;            b=!b;        }               return !b;      }}": {
-              "syncedAt": 1786341514679,
-              "runtime": "N/A",
-              "memory": "N/A",
-              "githubPath": "LeetCode/Math/Stone Removal Game/"
             }
           }
         },
@@ -138,7 +132,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341317746,
+              "syncedAt": 1786341516923,
               "runtime": "16 ms",
               "memory": "52.2 MB",
               "githubPath": "LeetCode/Array/Valid Sudoku/"
