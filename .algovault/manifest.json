@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-11T11:08:58.059Z",
+  "lastUpdated": "2026-08-11T11:09:06.717Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2993,7 +2993,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341427409,
+              "syncedAt": 1786446546716,
               "runtime": "72 ms",
               "memory": "47.6 MB",
               "githubPath": "LeetCode/String/Lexicographically Smallest String After Applying Operations/"
@@ -3012,7 +3012,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341427409,
+              "syncedAt": 1786446546716,
               "runtime": "7 ms",
               "memory": "58 MB",
               "githubPath": "LeetCode/Array/Maximum Number of Distinct Elements After Operations/"
@@ -3032,7 +3032,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341427409,
+              "syncedAt": 1786446546716,
               "runtime": "2 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/String/Maximize the Number of Partitions After Operations/"
@@ -3052,7 +3052,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341427409,
+              "syncedAt": 1786446546716,
               "runtime": "5 ms",
               "memory": "57.5 MB",
               "githubPath": "LeetCode/Array/Smallest Missing Non-negative Integer After Operations/"
@@ -3070,7 +3070,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341427409,
+              "syncedAt": 1786446546716,
               "runtime": "13 ms",
               "memory": "89 MB",
               "githubPath": "LeetCode/Array/Adjacent Increasing Subarrays Detection II/"
@@ -3087,7 +3087,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341427409,
+              "syncedAt": 1786446546716,
               "runtime": "1 ms",
               "memory": "45.1 MB",
               "githubPath": "LeetCode/Array/Adjacent Increasing Subarrays Detection I/"
@@ -3105,7 +3105,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341427409,
+              "syncedAt": 1786446546716,
               "runtime": "1 ms",
               "memory": "42.2 MB",
               "githubPath": "LeetCode/Hash Table/Check if the Sentence Is Pangram/"
@@ -3124,7 +3124,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341427410,
+              "syncedAt": 1786446546716,
               "runtime": "1 ms",
               "memory": "44.7 MB",
               "githubPath": "LeetCode/Hash Table/Ransom Note/"
@@ -3142,7 +3142,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341441024,
+              "syncedAt": 1786446546716,
               "runtime": "0 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/Math/Pow(x, n)/"
@@ -3161,7 +3161,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341441024,
+              "syncedAt": 1786446546717,
               "runtime": "3 ms",
               "memory": "44.7 MB",
               "githubPath": "LeetCode/Hash Table/Integer to Roman/"
@@ -3179,7 +3179,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341441025,
+              "syncedAt": 1786446546717,
               "runtime": "0 ms",
               "memory": "41.8 MB",
               "githubPath": "LeetCode/String/Rotate String/"
@@ -3198,7 +3198,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341441025,
+              "syncedAt": 1786446546717,
               "runtime": "0 ms",
               "memory": "41.8 MB",
               "githubPath": "LeetCode/Hash Table/Check if Number Has Equal Digit Count and Digit Value/"
@@ -3218,7 +3218,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341441025,
+              "syncedAt": 1786446546717,
               "runtime": "3 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/String/Remove Duplicate Letters/"
@@ -3238,7 +3238,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341441025,
+              "syncedAt": 1786446546717,
               "runtime": "6 ms",
               "memory": "45.2 MB",
               "githubPath": "LeetCode/Hash Table/First Unique Character in a String/"
@@ -3257,7 +3257,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341441025,
+              "syncedAt": 1786446546717,
               "runtime": "4 ms",
               "memory": "44.6 MB",
               "githubPath": "LeetCode/Hash Table/Valid Anagram/"
