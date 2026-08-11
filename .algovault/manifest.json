@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-11T11:09:06.717Z",
+  "lastUpdated": "2026-08-11T11:09:14.193Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3276,7 +3276,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786357815441,
+              "syncedAt": 1786446554193,
               "runtime": "0 ms",
               "memory": "41.6 MB",
               "githubPath": "LeetCode/Math/Power of Two/"
@@ -3295,7 +3295,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341441025,
+              "syncedAt": 1786446554193,
               "runtime": "1 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Array/Merge Sorted Array/"
@@ -3314,7 +3314,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786357004678,
+              "syncedAt": 1786446554193,
               "runtime": "0 ms",
               "memory": "40.5 MB",
               "githubPath": "LeetCode/Math/Climbing Stairs/"
@@ -3333,7 +3333,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341441025,
+              "syncedAt": 1786446554193,
               "runtime": "0 ms",
               "memory": "41.2 MB",
               "githubPath": "LeetCode/Math/Sqrt(x)/"
@@ -3351,7 +3351,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341441025,
+              "syncedAt": 1786446554193,
               "runtime": "0 ms",
               "memory": "41.9 MB",
               "githubPath": "LeetCode/Array/Plus One/"
@@ -3369,7 +3369,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341441025,
+              "syncedAt": 1786446554193,
               "runtime": "0 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/Array/Search Insert Position/"
@@ -3388,7 +3388,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341447781,
+              "syncedAt": 1786446554193,
               "runtime": "0 ms",
               "memory": "41.6 MB",
               "githubPath": "LeetCode/Array/Longest Common Prefix/"
@@ -3410,7 +3410,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341447781,
+              "syncedAt": 1786446554193,
               "runtime": "0 ms",
               "memory": "40.5 MB",
               "githubPath": "LeetCode/Math/Nim Game/"
@@ -3429,7 +3429,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341447781,
+              "syncedAt": 1786446554193,
               "runtime": "18 ms",
               "memory": "44.3 MB",
               "githubPath": "LeetCode/Array/4Sum/"
@@ -3448,7 +3448,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341447781,
+              "syncedAt": 1786446554193,
               "runtime": "30 ms",
               "memory": "51.6 MB",
               "githubPath": "LeetCode/Array/3Sum/"
@@ -3465,7 +3465,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341447781,
+              "syncedAt": 1786446554193,
               "runtime": "3 ms",
               "memory": "59.4 MB",
               "githubPath": "LeetCode/Array/Monotonic Array/"
