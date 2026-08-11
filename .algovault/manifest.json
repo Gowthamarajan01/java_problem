@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-11T11:07:18.874Z",
+  "lastUpdated": "2026-08-11T11:07:27.344Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -229,7 +229,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341328660,
+              "syncedAt": 1786446447344,
               "runtime": "0 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/Array/Spiral Matrix/"
@@ -249,7 +249,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341328660,
+              "syncedAt": 1786446447344,
               "runtime": "33 ms",
               "memory": "47 MB",
               "githubPath": "LeetCode/String/Repeated Substring Pattern/"
@@ -268,7 +268,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341328660,
+              "syncedAt": 1786446447344,
               "runtime": "2 ms",
               "memory": "48 MB",
               "githubPath": "LeetCode/Array/Jump Game/"
@@ -286,9 +286,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786359378305,
+              "syncedAt": 1786446447344,
               "runtime": "2 ms",
-              "memory": "94.5 MB",
+              "memory": "94.7 MB",
               "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock/"
             }
           }
@@ -304,7 +304,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341328660,
+              "syncedAt": 1786446447344,
               "runtime": "0 ms",
               "memory": "43.6 MB",
               "githubPath": "LeetCode/Array/Remove Element/"
@@ -321,7 +321,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1786341328660,
+              "syncedAt": 1786446447344,
               "runtime": "581 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Recyclable and Low Fat Products/"
@@ -341,7 +341,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341328660,
+              "syncedAt": 1786446447344,
               "runtime": "1 ms",
               "memory": "69.2 MB",
               "githubPath": "LeetCode/Array/Minimum Size Subarray Sum/"
@@ -358,7 +358,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341328660,
+              "syncedAt": 1786446447344,
               "runtime": "0 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Math/Factorial Trailing Zeroes/"
@@ -379,7 +379,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341328660,
+              "syncedAt": 1786446447344,
               "runtime": "27 ms",
               "memory": "45.6 MB",
               "githubPath": "LeetCode/Array/Valid Triangle Number/"
@@ -400,7 +400,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341328660,
+              "syncedAt": 1786446447344,
               "runtime": "8 ms",
               "memory": "51 MB",
               "githubPath": "LeetCode/Array/Maximum Sum Circular Subarray/"
@@ -419,7 +419,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341328660,
+              "syncedAt": 1786446447344,
               "runtime": "2 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Two Pointers/Is Subsequence/"
@@ -441,7 +441,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341333774,
+              "syncedAt": 1786446447344,
               "runtime": "12 ms",
               "memory": "52.7 MB",
               "githubPath": "LeetCode/Array/Majority Element/"
@@ -459,7 +459,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341333774,
+              "syncedAt": 1786446447344,
               "runtime": "1 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array/"
@@ -477,7 +477,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341333774,
+              "syncedAt": 1786446447344,
               "runtime": "0 ms",
               "memory": "42.2 MB",
               "githubPath": "LeetCode/Math/Nth Digit/"
