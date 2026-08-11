@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-11T11:08:38.384Z",
+  "lastUpdated": "2026-08-11T11:08:46.775Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2446,7 +2446,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341406391,
+              "syncedAt": 1786446526774,
               "runtime": "1 ms",
               "memory": "43.7 MB",
               "githubPath": "LeetCode/Math/Add Binary/"
@@ -2466,7 +2466,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341406391,
+              "syncedAt": 1786446526774,
               "runtime": "8 ms",
               "memory": "90.6 MB",
               "githubPath": "LeetCode/Array/Minimum Time to Make Rope Colorful/"
@@ -2484,7 +2484,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341406391,
+              "syncedAt": 1786446526774,
               "runtime": "0 ms",
               "memory": "44.2 MB",
               "githubPath": "LeetCode/Linked List/Reverse Linked List/"
@@ -2504,7 +2504,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341406391,
+              "syncedAt": 1786446526774,
               "runtime": "0 ms",
               "memory": "47 MB",
               "githubPath": "LeetCode/Hash Table/Linked List Cycle/"
@@ -2524,7 +2524,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341406391,
+              "syncedAt": 1786446526774,
               "runtime": "3 ms",
               "memory": "51.7 MB",
               "githubPath": "LeetCode/Array/Max Consecutive Ones III/"
@@ -2543,7 +2543,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341416586,
+              "syncedAt": 1786446526774,
               "runtime": "50 ms",
               "memory": "61.7 MB",
               "githubPath": "LeetCode/Array/Fruit Into Baskets/"
@@ -2562,7 +2562,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341416586,
+              "syncedAt": 1786446526774,
               "runtime": "20 ms",
               "memory": "147.2 MB",
               "githubPath": "LeetCode/Array/Count Unguarded Cells in the Grid/"
@@ -2581,7 +2581,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341416586,
+              "syncedAt": 1786446526774,
               "runtime": "1 ms",
               "memory": "45.9 MB",
               "githubPath": "LeetCode/Array/The Two Sneaky Numbers of Digitville/"
@@ -2602,7 +2602,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341416586,
+              "syncedAt": 1786446526774,
               "runtime": "3 ms",
               "memory": "57.3 MB",
               "githubPath": "LeetCode/Array/Minimum Number of Increments on Subarrays to Form a Target Array/"
@@ -2621,7 +2621,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341416586,
+              "syncedAt": 1786446526774,
               "runtime": "3 ms",
               "memory": "56.2 MB",
               "githubPath": "LeetCode/Array/Longest Subarray of 1's After Deleting One Element/"
@@ -2639,7 +2639,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341416586,
+              "syncedAt": 1786446526775,
               "runtime": "0 ms",
               "memory": "40.8 MB",
               "githubPath": "LeetCode/Math/Smallest Number With All Set Bits/"
@@ -2658,7 +2658,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341416586,
+              "syncedAt": 1786446526775,
               "runtime": "3 ms",
               "memory": "42.1 MB",
               "githubPath": "LeetCode/Array/Make Array Elements Equal to Zero/"
