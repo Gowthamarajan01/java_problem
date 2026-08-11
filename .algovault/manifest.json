@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-11T05:41:11.688Z",
+  "lastUpdated": "2026-08-11T05:42:37.137Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3569,6 +3569,12 @@
               "runtime": "0 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/Stack/Binary Tree Inorder Traversal/"
+            },
+            "12345678910111213141516171819202122232425262728293031/** * definition for a binary tree node. * public class treenode { *     int val; *     treenode left; *     treenode right; *     treenode() {} *     treenode(int val) { this.val = val; } *     treenode(int val, treenode left, treenode right) { *         this.val = val; *         this.left = left; *         this.right = right; *     } * } */class solution {    public list<integer> inordertraversal(treenode root) {        list<integer> r  = new arraylist<>();         inorder(root,r);         return r;        }           public  void inorder(treenode node,list<integer> r){            if(node == null)            return;        inorder(node.left,r);        r.add(node.val);        inorder(node.right,r);    }}": {
+              "syncedAt": 1786426957136,
+              "runtime": "0 ms",
+              "memory": "43.10 MB",
+              "githubPath": "LeetCode/General/Binary Tree Inorder Traversal/"
             }
           }
         }
