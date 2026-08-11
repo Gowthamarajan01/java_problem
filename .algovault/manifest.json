@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-11T11:08:19.658Z",
+  "lastUpdated": "2026-08-11T11:08:29.100Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1910,7 +1910,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341390660,
+              "syncedAt": 1786446509100,
               "runtime": "4 ms",
               "memory": "46.1 MB",
               "githubPath": "LeetCode/Math/Number of Substrings With Only 1s/"
@@ -1928,7 +1928,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341390661,
+              "syncedAt": 1786446509100,
               "runtime": "116 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/String/Count the Number of Substrings With Dominant Ones/"
@@ -1947,7 +1947,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341390661,
+              "syncedAt": 1786446509100,
               "runtime": "7 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/String/Maximum Number of Operations to Move Ones to the End/"
@@ -1968,7 +1968,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341390661,
+              "syncedAt": 1786446509100,
               "runtime": "1 ms",
               "memory": "44 MB",
               "githubPath": "LeetCode/Array/Minimum Number of Operations to Make All Array Elements Equal to 1/"
@@ -1989,7 +1989,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341390661,
+              "syncedAt": 1786446509100,
               "runtime": "20 ms",
               "memory": "43.6 MB",
               "githubPath": "LeetCode/Array/Ones and Zeroes/"
@@ -2007,7 +2007,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341390661,
+              "syncedAt": 1786446509100,
               "runtime": "1 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Math/Count Operations to Obtain Zero/"
@@ -2028,7 +2028,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341390661,
+              "syncedAt": 1786446509100,
               "runtime": "0 ms",
               "memory": "41.9 MB",
               "githubPath": "LeetCode/Math/Minimum One Bit Operations to Make Integers Zero/"
@@ -2050,7 +2050,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341390661,
+              "syncedAt": 1786446509100,
               "runtime": "29 ms",
               "memory": "89.6 MB",
               "githubPath": "LeetCode/Array/Maximize the Minimum Powered City/"
@@ -2069,7 +2069,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341390661,
+              "syncedAt": 1786446509100,
               "runtime": "19 ms",
               "memory": "45.6 MB",
               "githubPath": "LeetCode/Math/Add Strings/"
@@ -2086,7 +2086,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341397539,
+              "syncedAt": 1786446509100,
               "runtime": "1 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/String/Remove Trailing Zeros From a String/"
@@ -2104,7 +2104,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341397539,
+              "syncedAt": 1786446509100,
               "runtime": "7 ms",
               "memory": "42.2 MB",
               "githubPath": "LeetCode/Math/Arranging Coins/"
@@ -2128,7 +2128,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341397539,
+              "syncedAt": 1786446509100,
               "runtime": "18 ms",
               "memory": "259 MB",
               "githubPath": "LeetCode/Array/Power Grid Maintenance/"
@@ -2147,7 +2147,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341397539,
+              "syncedAt": 1786446509100,
               "runtime": "1 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Math/Power of Four/"
