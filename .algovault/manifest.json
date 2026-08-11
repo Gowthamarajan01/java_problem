@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-11T11:08:29.100Z",
+  "lastUpdated": "2026-08-11T11:08:38.384Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2164,7 +2164,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341397539,
+              "syncedAt": 1786446518384,
               "runtime": "0 ms",
               "memory": "42.6 MB",
               "githubPath": "LeetCode/String/Number of Segments in a String/"
@@ -2183,7 +2183,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341397540,
+              "syncedAt": 1786446518384,
               "runtime": "5 ms",
               "memory": "43.7 MB",
               "githubPath": "LeetCode/Hash Table/Longest Palindrome/"
@@ -2202,7 +2202,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341397540,
+              "syncedAt": 1786446518384,
               "runtime": "4 ms",
               "memory": "41.9 MB",
               "githubPath": "LeetCode/Math/Sum of Square Numbers/"
@@ -2222,7 +2222,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341397540,
+              "syncedAt": 1786446518384,
               "runtime": "403 ms",
               "memory": "191.2 MB",
               "githubPath": "LeetCode/Array/Find X-Sum of All K-Long Subarrays II/"
@@ -2239,7 +2239,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341397540,
+              "syncedAt": 1786446518384,
               "runtime": "0 ms",
               "memory": "42.1 MB",
               "githubPath": "LeetCode/Math/Construct the Rectangle/"
@@ -2256,7 +2256,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341397540,
+              "syncedAt": 1786446518384,
               "runtime": "0 ms",
               "memory": "42.2 MB",
               "githubPath": "LeetCode/Bit Manipulation/Number Complement/"
@@ -2277,7 +2277,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341397540,
+              "syncedAt": 1786446518384,
               "runtime": "14 ms",
               "memory": "51.5 MB",
               "githubPath": "LeetCode/Array/Assign Cookies/"
@@ -2297,7 +2297,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341406390,
+              "syncedAt": 1786446518384,
               "runtime": "11 ms",
               "memory": "43.4 MB",
               "githubPath": "LeetCode/Hash Table/Find the Difference/"
@@ -2315,7 +2315,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341406390,
+              "syncedAt": 1786446518384,
               "runtime": "0 ms",
               "memory": "42.1 MB",
               "githubPath": "LeetCode/Math/Valid Perfect Square/"
@@ -2335,7 +2335,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341406391,
+              "syncedAt": 1786446518384,
               "runtime": "3 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/Array/Find X-Sum of All K-Long Subarrays I/"
@@ -2353,7 +2353,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341406391,
+              "syncedAt": 1786446518384,
               "runtime": "1 ms",
               "memory": "47.9 MB",
               "githubPath": "LeetCode/Array/Move Zeroes/"
@@ -2371,7 +2371,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341406391,
+              "syncedAt": 1786446518384,
               "runtime": "1 ms",
               "memory": "43.6 MB",
               "githubPath": "LeetCode/Math/Excel Sheet Column Number/"
@@ -2390,7 +2390,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341406391,
+              "syncedAt": 1786446518384,
               "runtime": "23 ms",
               "memory": "90.2 MB",
               "githubPath": "LeetCode/Array/Contains Duplicate II/"
@@ -2409,7 +2409,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341406391,
+              "syncedAt": 1786446518384,
               "runtime": "24 ms",
               "memory": "76.8 MB",
               "githubPath": "LeetCode/Array/Contains Duplicate/"
@@ -2426,7 +2426,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341406391,
+              "syncedAt": 1786446518384,
               "runtime": "0 ms",
               "memory": "45.2 MB",
               "githubPath": "LeetCode/Linked List/Remove Duplicates from Sorted List/"
