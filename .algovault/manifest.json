@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-11T11:08:09.856Z",
+  "lastUpdated": "2026-08-11T11:08:19.658Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1571,7 +1571,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341379712,
+              "syncedAt": 1786446499658,
               "runtime": "1 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/Array/Single Number/"
@@ -1591,7 +1591,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341379712,
+              "syncedAt": 1786446499658,
               "runtime": "17 ms",
               "memory": "49.9 MB",
               "githubPath": "LeetCode/Array/Array Partition/"
@@ -1609,7 +1609,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341379712,
+              "syncedAt": 1786446499658,
               "runtime": "30 ms",
               "memory": "48.7 MB",
               "githubPath": "LeetCode/Array/Distribute Candies/"
@@ -1627,7 +1627,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341379712,
+              "syncedAt": 1786446499658,
               "runtime": "7 ms",
               "memory": "45.5 MB",
               "githubPath": "LeetCode/Array/Third Maximum Number/"
@@ -1645,7 +1645,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341379712,
+              "syncedAt": 1786446499658,
               "runtime": "1 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/Divide and Conquer/Number of 1 Bits/"
@@ -1664,7 +1664,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341379712,
+              "syncedAt": 1786446499658,
               "runtime": "10 ms",
               "memory": "47.5 MB",
               "githubPath": "LeetCode/String/Count Collisions on a Road/"
@@ -1683,7 +1683,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341379712,
+              "syncedAt": 1786446499658,
               "runtime": "0 ms",
               "memory": "46.8 MB",
               "githubPath": "LeetCode/Array/Last Moment Before All Ants Fall Out of a Plank/"
@@ -1701,7 +1701,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341379712,
+              "syncedAt": 1786446499658,
               "runtime": "0 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/Math/Divide Two Integers/"
@@ -1722,7 +1722,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341379712,
+              "syncedAt": 1786446499658,
               "runtime": "0 ms",
               "memory": "47.5 MB",
               "githubPath": "LeetCode/Array/Trapping Rain Water/"
@@ -1742,7 +1742,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341379712,
+              "syncedAt": 1786446499658,
               "runtime": "591 ms",
               "memory": "282.6 MB",
               "githubPath": "LeetCode/Array/Count Number of Trapezoids II/"
@@ -1761,7 +1761,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341379712,
+              "syncedAt": 1786446499658,
               "runtime": "19 ms",
               "memory": "88 MB",
               "githubPath": "LeetCode/Array/Make Sum Divisible by P/"
@@ -1781,7 +1781,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341390660,
+              "syncedAt": 1786446499658,
               "runtime": "15 ms",
               "memory": "49.7 MB",
               "githubPath": "LeetCode/Array/Greatest Sum Divisible by Three/"
@@ -1799,7 +1799,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341390660,
+              "syncedAt": 1786446499658,
               "runtime": "0 ms",
               "memory": "43.8 MB",
               "githubPath": "LeetCode/Array/Find Minimum Operations to Make All Elements Divisible by Three/"
@@ -1819,7 +1819,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341390660,
+              "syncedAt": 1786446499658,
               "runtime": "30 ms",
               "memory": "47.2 MB",
               "githubPath": "LeetCode/Hash Table/Unique Length-3 Palindromic Subsequences/"
@@ -1838,7 +1838,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341390660,
+              "syncedAt": 1786446499658,
               "runtime": "9 ms",
               "memory": "47.4 MB",
               "githubPath": "LeetCode/Array/Set Intersection Size At Least Two/"
@@ -1858,7 +1858,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341390660,
+              "syncedAt": 1786446499658,
               "runtime": "1 ms",
               "memory": "45.6 MB",
               "githubPath": "LeetCode/Array/Keep Multiplying Found Values by Two/"
@@ -1875,7 +1875,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341390660,
+              "syncedAt": 1786446499658,
               "runtime": "0 ms",
               "memory": "44.6 MB",
               "githubPath": "LeetCode/Array/1-bit and 2-bit Characters/"
@@ -1892,7 +1892,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341390660,
+              "syncedAt": 1786446499658,
               "runtime": "1 ms",
               "memory": "65.3 MB",
               "githubPath": "LeetCode/Array/Check If All 1's Are at Least Length K Places Away/"
