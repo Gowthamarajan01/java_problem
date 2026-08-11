@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-11T11:09:14.193Z",
+  "lastUpdated": "2026-08-11T11:09:18.238Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3482,13 +3482,13 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341447781,
+              "syncedAt": 1786446558238,
               "runtime": "0 ms",
               "memory": "41.3 MB",
               "githubPath": "LeetCode/Math/Ugly Number/"
             },
             "cpp": {
-              "syncedAt": 1786341447781,
+              "syncedAt": 1786446558238,
               "runtime": "0 ms",
               "memory": "7.9 MB",
               "githubPath": "LeetCode/Math/Ugly Number/"
@@ -3505,7 +3505,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341447781,
+              "syncedAt": 1786446558238,
               "runtime": "5 ms",
               "memory": "44.2 MB",
               "githubPath": "LeetCode/Math/Palindrome Number/"
