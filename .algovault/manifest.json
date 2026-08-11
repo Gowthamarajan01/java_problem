@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-11T11:07:33.384Z",
+  "lastUpdated": "2026-08-11T11:07:39.525Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -605,7 +605,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341339750,
+              "syncedAt": 1786446459524,
               "runtime": "8 ms",
               "memory": "43.9 MB",
               "githubPath": "LeetCode/Hash Table/Isomorphic Strings/"
@@ -622,7 +622,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341339750,
+              "syncedAt": 1786446459525,
               "runtime": "1 ms",
               "memory": "44.1 MB",
               "githubPath": "LeetCode/Array/Kids With the Greatest Number of Candies/"
@@ -643,7 +643,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341339750,
+              "syncedAt": 1786446459525,
               "runtime": "4 ms",
               "memory": "45.3 MB",
               "githubPath": "LeetCode/Array/Intersection of Two Arrays/"
@@ -662,7 +662,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341339750,
+              "syncedAt": 1786446459525,
               "runtime": "1 ms",
               "memory": "47 MB",
               "githubPath": "LeetCode/Math/Fizz Buzz/"
@@ -681,7 +681,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341339750,
+              "syncedAt": 1786446459525,
               "runtime": "5 ms",
               "memory": "57.7 MB",
               "githubPath": "LeetCode/Array/Find All Duplicates in an Array/"
@@ -699,7 +699,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341345570,
+              "syncedAt": 1786446459525,
               "runtime": "1 ms",
               "memory": "47.2 MB",
               "githubPath": "LeetCode/Array/Build Array from Permutation/"
@@ -717,7 +717,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786357948482,
+              "syncedAt": 1786446459525,
               "runtime": "0 ms",
               "memory": "48.4 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse String/"
@@ -734,7 +734,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786341345571,
+              "syncedAt": 1786446459525,
               "runtime": "1 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/String/Length of Last Word/"
