@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-12T10:51:07.613Z",
+  "lastUpdated": "2026-08-12T16:37:16.084Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3654,6 +3654,25 @@
               "runtime": "4 ms",
               "memory": "82 MB",
               "githubPath": "LeetCode/Tree/Minimum Depth of Binary Tree/"
+            }
+          }
+        },
+        "length-of-longest-subarray-with-at-most-k-frequency": {
+          "questionId": "2958",
+          "title": "Length of Longest Subarray With at Most K Frequency",
+          "titleSlug": "length-of-longest-subarray-with-at-most-k-frequency",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786552636081,
+              "runtime": "68 ms",
+              "memory": "89 MB",
+              "githubPath": "LeetCode/Array/Length of Longest Subarray With at Most K Frequency/"
             }
           }
         }
