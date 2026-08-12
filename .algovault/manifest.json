@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-12T10:41:17.826Z",
+  "lastUpdated": "2026-08-12T10:51:07.613Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3634,6 +3634,26 @@
               "runtime": "0 ms",
               "memory": "47.2 MB",
               "githubPath": "LeetCode/Tree/Maximum Depth of Binary Tree/"
+            }
+          }
+        },
+        "minimum-depth-of-binary-tree": {
+          "questionId": "111",
+          "title": "Minimum Depth of Binary Tree",
+          "titleSlug": "minimum-depth-of-binary-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786531867613,
+              "runtime": "4 ms",
+              "memory": "82 MB",
+              "githubPath": "LeetCode/Tree/Minimum Depth of Binary Tree/"
             }
           }
         }
