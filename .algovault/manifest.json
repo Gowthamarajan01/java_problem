@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T08:45:34.411Z",
+  "lastUpdated": "2026-08-18T09:24:02.796Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3713,6 +3713,26 @@
               "runtime": "0 ms",
               "memory": "N/A",
               "githubPath": "LeetCode/Tree/Sum Root to Leaf Numbers/"
+            }
+          }
+        },
+        "path-sum": {
+          "questionId": "112",
+          "title": "Path Sum",
+          "titleSlug": "path-sum",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787045042795,
+              "runtime": "0 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Tree/Path Sum/"
             }
           }
         }
