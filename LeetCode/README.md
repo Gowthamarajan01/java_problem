@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Gowthathamarajan_pommusamy?theme=tokyonight&show=graph,recent&v=1787028949471" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Gowthathamarajan_pommusamy?theme=tokyonight&show=graph,recent&v=1787042734431" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -295,6 +295,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 102 | [Binary Tree Level Order Traversal](./Tree/Binary%20Tree%20Level%20Order%20Traversal/) | Medium |
 | 104 | [Maximum Depth of Binary Tree](./Tree/Maximum%20Depth%20of%20Binary%20Tree/) | Easy |
 | 111 | [Minimum Depth of Binary Tree](./Tree/Minimum%20Depth%20of%20Binary%20Tree/) | Easy |
+| 129 | [Sum Root to Leaf Numbers](./Tree/Sum%20Root%20to%20Leaf%20Numbers/) | Easy |
 
 </details>
 

@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T04:55:49.457Z",
+  "lastUpdated": "2026-08-18T08:45:34.411Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3694,6 +3694,25 @@
               "runtime": "0 ms",
               "memory": "44.1 MB",
               "githubPath": "LeetCode/Linked List/Flatten Binary Tree to Linked List/"
+            }
+          }
+        },
+        "sum-root-to-leaf-numbers": {
+          "questionId": "129",
+          "title": "Sum Root to Leaf Numbers",
+          "titleSlug": "sum-root-to-leaf-numbers",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "12345678910111213141516171819202122232425262728/** * definition for a binary tree node. * public class treenode { *     int val; *     treenode left; *     treenode right; *     treenode() {} *     treenode(int val) { this.val = val; } *     treenode(int val, treenode left, treenode right) { *         this.val = val; *         this.left = left; *         this.right = right; *     } * } */class solution {    public int sumnumbers(treenode root) {              return sumroot(root,0);    }        public int sumroot(treenode node,int num){            if(node == null)  return 0;       num = num*10 + node.val;        if(node.left==null && node.right==null){        return num;       }       return sumroot(node.left,num)+sumroot(node.right,num);    }}": {
+              "syncedAt": 1787042734410,
+              "runtime": "0 ms",
+              "memory": "N/A",
+              "githubPath": "LeetCode/Tree/Sum Root to Leaf Numbers/"
             }
           }
         }
