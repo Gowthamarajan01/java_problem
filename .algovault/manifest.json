@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T09:24:02.796Z",
+  "lastUpdated": "2026-08-18T10:43:18.444Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -59,9 +59,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786446438874,
-              "runtime": "66 ms",
-              "memory": "47.8 MB",
+              "syncedAt": 1787049798443,
+              "runtime": "6 ms",
+              "memory": "46.4 MB",
               "githubPath": "LeetCode/Hash Table/Longest Substring Without Repeating Characters/"
             }
           }
