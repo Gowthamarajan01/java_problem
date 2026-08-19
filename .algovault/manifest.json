@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-19T09:44:36.535Z",
+  "lastUpdated": "2026-08-19T10:57:38.160Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3752,6 +3752,25 @@
               "runtime": "5 ms",
               "memory": "77.4 MB",
               "githubPath": "LeetCode/Array/Container With Most Water/"
+            }
+          }
+        },
+        "uncommon-words-from-two-sentences": {
+          "questionId": "884",
+          "title": "Uncommon Words from Two Sentences",
+          "titleSlug": "uncommon-words-from-two-sentences",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Counting"
+          ],
+          "solutions": {
+            "123456789101112131415161718class solution {    public string[] uncommonfromsentences(string s1, string s2) {            string s = s1+\" \"+s2;     string[] s3 = s.split(\" \");        map<string,integer> mp = new hashmap<>();        for(string str : s3){          mp.put(str,mp.getordefault(str,0)+1);        }        list<string> lt = new arraylist<>();        for(map.entry<string,integer> entry : mp.entryset()){            if(entry.getvalue()==1){                lt.add(entry.getkey());            }        }        return lt.toarray(new string[0]);    }}": {
+              "syncedAt": 1787137058160,
+              "runtime": "4 ms",
+              "memory": "43.33 MB",
+              "githubPath": "LeetCode/Hash Table/Uncommon Words from Two Sentences/"
             }
           }
         }

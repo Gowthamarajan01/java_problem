@@ -1,0 +1,18 @@
+class Solution {
+    public String[] uncommonFromSentences(String s1, String s2) {
+       
+     String s = s1+" "+s2;
+     String[] s3 = s.split(" ");
+        Map<String,Integer> mp = new HashMap<>();
+        for(String str : s3){
+          mp.put(str,mp.getOrDefault(str,0)+1);
+        }
+        List<String> lt = new ArrayList<>();
+        for(Map.Entry<String,Integer> entry : mp.entrySet()){
+            if(entry.getValue()==1){
+                lt.add(entry.getKey());
+            }
+        }
+        return lt.toArray(new String[0]);
+    }
+}
