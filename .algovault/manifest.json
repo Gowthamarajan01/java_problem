@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-19T10:57:38.160Z",
+  "lastUpdated": "2026-08-19T11:13:05.734Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3771,6 +3771,24 @@
               "runtime": "4 ms",
               "memory": "43.33 MB",
               "githubPath": "LeetCode/Hash Table/Uncommon Words from Two Sentences/"
+            }
+          }
+        },
+        "counting-bits": {
+          "questionId": "338",
+          "title": "Counting Bits",
+          "titleSlug": "counting-bits",
+          "difficulty": "Easy",
+          "tags": [
+            "Dynamic Programming",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787137985733,
+              "runtime": "2 ms",
+              "memory": "48.9 MB",
+              "githubPath": "LeetCode/Dynamic Programming/Counting Bits/"
             }
           }
         }
