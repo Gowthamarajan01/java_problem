@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-20T08:02:38.882Z",
+  "lastUpdated": "2026-08-20T08:04:30.811Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3862,10 +3862,10 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787212958881,
-              "runtime": "28 ms",
-              "memory": "46.80 MB",
-              "githubPath": "LeetCode/General/Max Points on a Line/"
+              "syncedAt": 1787213070811,
+              "runtime": "1 ms",
+              "memory": "42.98 MB",
+              "githubPath": "LeetCode/General/Permutation Sequence/"
             }
           }
         }
