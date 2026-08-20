@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-19T11:13:05.734Z",
+  "lastUpdated": "2026-08-20T05:35:50.262Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3789,6 +3789,24 @@
               "runtime": "2 ms",
               "memory": "48.9 MB",
               "githubPath": "LeetCode/Dynamic Programming/Counting Bits/"
+            }
+          }
+        },
+        "permutation-sequence": {
+          "questionId": "60",
+          "title": "Permutation Sequence",
+          "titleSlug": "permutation-sequence",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787204150261,
+              "runtime": "1 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/Math/Permutation Sequence/"
             }
           }
         }
