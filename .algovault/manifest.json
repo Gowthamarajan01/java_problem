@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-20T05:35:50.262Z",
+  "lastUpdated": "2026-08-20T06:19:03.521Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3807,6 +3807,28 @@
               "runtime": "1 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/Math/Permutation Sequence/"
+            }
+          }
+        },
+        "max-points-on-a-line": {
+          "questionId": "149",
+          "title": "Max Points on a Line",
+          "titleSlug": "max-points-on-a-line",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Geometry",
+            "Euclidean Algorithm",
+            "Greatest Common Divisor"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787206743521,
+              "runtime": "28 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Array/Max Points on a Line/"
             }
           }
         }

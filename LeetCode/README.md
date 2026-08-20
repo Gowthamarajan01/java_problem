@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Gowthathamarajan_pommusamy?theme=tokyonight&show=graph,recent&v=1787204150279" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Gowthathamarajan_pommusamy?theme=tokyonight&show=graph,recent&v=1787206743533" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -39,6 +39,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 88 | [Merge Sorted Array](./Array/Merge%20Sorted%20Array/) | Easy |
 | 121 | [Best Time to Buy and Sell Stock](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock/) | Easy |
 | 136 | [Single Number](./Array/Single%20Number/) | Easy |
+| 149 | [Max Points on a Line](./Array/Max%20Points%20on%20a%20Line/) | Hard |
 | 169 | [Majority Element](./Array/Majority%20Element/) | Easy |
 | 198 | [House Robber](./Array/House%20Robber/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
