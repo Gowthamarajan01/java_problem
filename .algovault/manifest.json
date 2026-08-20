@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-20T06:59:02.086Z",
+  "lastUpdated": "2026-08-20T08:02:38.882Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3849,6 +3849,23 @@
               "runtime": "51 ms",
               "memory": "115.8 MB",
               "githubPath": "LeetCode/Array/Non-overlapping Intervals/"
+            }
+          }
+        },
+        "unknown-problem": {
+          "questionId": "",
+          "title": "Max Points on a Line",
+          "titleSlug": "unknown-problem",
+          "difficulty": "Medium",
+          "tags": [
+            "General"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787212958881,
+              "runtime": "28 ms",
+              "memory": "46.80 MB",
+              "githubPath": "LeetCode/General/Max Points on a Line/"
             }
           }
         }
