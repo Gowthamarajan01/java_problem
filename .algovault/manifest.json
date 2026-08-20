@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-20T06:19:03.521Z",
+  "lastUpdated": "2026-08-20T06:59:02.086Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3829,6 +3829,26 @@
               "runtime": "28 ms",
               "memory": "46.8 MB",
               "githubPath": "LeetCode/Array/Max Points on a Line/"
+            }
+          }
+        },
+        "non-overlapping-intervals": {
+          "questionId": "435",
+          "title": "Non-overlapping Intervals",
+          "titleSlug": "non-overlapping-intervals",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787209142085,
+              "runtime": "51 ms",
+              "memory": "115.8 MB",
+              "githubPath": "LeetCode/Array/Non-overlapping Intervals/"
             }
           }
         }
