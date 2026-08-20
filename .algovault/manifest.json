@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-20T10:26:55.370Z",
+  "lastUpdated": "2026-08-20T10:28:35.057Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -772,6 +772,12 @@
               "syncedAt": 1787221516342,
               "runtime": "461 ms",
               "memory": "0B",
+              "githubPath": "LeetCode/Database/Article Views I/"
+            },
+            "csharp": {
+              "syncedAt": 1787221715057,
+              "runtime": "92 ms",
+              "memory": "N/A",
               "githubPath": "LeetCode/Database/Article Views I/"
             }
           }

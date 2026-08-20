@@ -5,9 +5,8 @@
 
 ## Problem Statement
 
-<p>Table: <code>Views</code></p>
+Table: Views
 
-<pre>
 +---------------+---------+
 | Column Name   | Type    |
 +---------------+---------+
@@ -19,21 +18,20 @@
 There is no primary key (column with unique values) for this table, the table may have duplicate rows.
 Each row of this table indicates that some viewer viewed an article (written by some author) on some date. 
 Note that equal author_id and viewer_id indicate the same person.
-</pre>
 
-<p>&nbsp;</p>
 
-<p>Write a solution to find all the authors that viewed at least one of their own articles.</p>
+ 
 
-<p>Return the result table sorted by <code>id</code> in ascending order.</p>
+Write a solution to find all the authors that viewed at least one of their own articles.
 
-<p>The result format is in the following example.</p>
+Return the result table sorted by id in ascending order.
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+The result format is in the following example.
 
-<pre>
-<strong>Input:</strong> 
+ 
+Example 1:
+
+Input: 
 Views table:
 +------------+-----------+-----------+------------+
 | article_id | author_id | viewer_id | view_date  |
@@ -46,15 +44,38 @@ Views table:
 | 3          | 4         | 4         | 2019-07-21 |
 | 3          | 4         | 4         | 2019-07-21 |
 +------------+-----------+-----------+------------+
-<strong>Output:</strong> 
+Output: 
 +------+
 | id   |
 +------+
 | 4    |
 | 7    |
 +------+
-</pre>
 
+## Examples
+
+```
+Input: 
+Views table:
++------------+-----------+-----------+------------+
+| article_id | author_id | viewer_id | view_date  |
++------------+-----------+-----------+------------+
+| 1          | 3         | 5         | 2019-08-01 |
+| 1          | 3         | 6         | 2019-08-02 |
+| 2          | 7         | 7         | 2019-08-01 |
+| 2          | 7         | 6         | 2019-08-02 |
+| 4          | 7         | 1         | 2019-07-22 |
+| 3          | 4         | 4         | 2019-07-21 |
+| 3          | 4         | 4         | 2019-07-21 |
++------------+-----------+-----------+------------+
+Output: 
++------+
+| id   |
++------+
+| 4    |
+| 7    |
++------+
+```
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
