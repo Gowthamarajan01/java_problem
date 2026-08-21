@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-20T10:53:38.987Z",
+  "lastUpdated": "2026-08-21T06:46:20.115Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3868,10 +3868,10 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787213070811,
-              "runtime": "1 ms",
-              "memory": "42.98 MB",
-              "githubPath": "LeetCode/General/Permutation Sequence/"
+              "syncedAt": 1787294780114,
+              "runtime": "5 ms",
+              "memory": "77.40 MB",
+              "githubPath": "LeetCode/General/Container With Most Water/"
             }
           }
         }
