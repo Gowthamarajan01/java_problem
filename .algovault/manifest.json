@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T09:40:53.053Z",
+  "lastUpdated": "2026-08-21T09:52:04.701Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1295,9 +1295,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786446482488,
-              "runtime": "5 ms",
-              "memory": "46.7 MB",
+              "syncedAt": 1787305924700,
+              "runtime": "1 ms",
+              "memory": "46.8 MB",
               "githubPath": "LeetCode/Array/Concatenation of Array/"
             }
           }
