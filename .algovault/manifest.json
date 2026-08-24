@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T05:45:11.856Z",
+  "lastUpdated": "2026-08-24T05:45:58.157Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -286,8 +286,8 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787550311856,
-              "runtime": "1 ms",
+              "syncedAt": 1787548519959,
+              "runtime": "2 ms",
               "memory": "94.5 MB",
               "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock/"
             },
@@ -295,6 +295,12 @@
               "syncedAt": 1787549780727,
               "runtime": "N/A",
               "memory": "N/A",
+              "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock/"
+            },
+            "1c": {
+              "syncedAt": 1787550358157,
+              "runtime": "0 ms",
+              "memory": "94.68 MB",
               "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock/"
             }
           }
