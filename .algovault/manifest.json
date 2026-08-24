@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T06:00:51.003Z",
+  "lastUpdated": "2026-08-24T11:06:41.113Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3896,6 +3896,23 @@
               "runtime": "591 ms",
               "memory": "N/A",
               "githubPath": "LeetCode/General/Article Views I/"
+            }
+          }
+        },
+        "detect-capital": {
+          "questionId": "520",
+          "title": "Detect Capital",
+          "titleSlug": "detect-capital",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787569601112,
+              "runtime": "1 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/String/Detect Capital/"
             }
           }
         }

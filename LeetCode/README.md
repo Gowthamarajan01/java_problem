@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Gowthathamarajan_pommusamy?theme=tokyonight&show=graph,recent&v=1787551251019" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Gowthathamarajan_pommusamy?theme=tokyonight&show=graph,recent&v=1787569601133" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -298,6 +298,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 316 | [Remove Duplicate Letters](./String/Remove%20Duplicate%20Letters/) | Medium |
 | 434 | [Number of Segments in a String](./String/Number%20of%20Segments%20in%20a%20String/) | Easy |
 | 459 | [Repeated Substring Pattern](./String/Repeated%20Substring%20Pattern/) | Easy |
+| 520 | [Detect Capital](./String/Detect%20Capital/) | Easy |
 | 796 | [Rotate String](./String/Rotate%20String/) | Easy |
 | 1047 | [Remove All Adjacent Duplicates In String](./String/Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy |
 | 1544 | [Make The String Great](./String/Make%20The%20String%20Great/) | Easy |
