@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T05:49:13.315Z",
+  "lastUpdated": "2026-08-24T05:52:13.181Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2430,6 +2430,12 @@
               "syncedAt": 1787550553314,
               "runtime": "24 ms",
               "memory": "76.8 MB",
+              "githubPath": "LeetCode/Array/Contains Duplicate/"
+            },
+            "123456789101112class solution {    public boolean containsduplicate(int[] nums) {       int n = nums.length;       arrays.sort(nums);       for(int i =0;i<=n;i++){            if(nums[i] == nums[i-1] ){            return true;            }       }        return false;    }}": {
+              "syncedAt": 1787550733180,
+              "runtime": "N/A",
+              "memory": "N/A",
               "githubPath": "LeetCode/Array/Contains Duplicate/"
             }
           }
