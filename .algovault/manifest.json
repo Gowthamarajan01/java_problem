@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T05:15:19.959Z",
+  "lastUpdated": "2026-08-24T05:36:20.727Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -289,6 +289,12 @@
               "syncedAt": 1787548519959,
               "runtime": "2 ms",
               "memory": "94.5 MB",
+              "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock/"
+            },
+            "123456789101112class solution {    public int maxprofit(int[] prices) {       int n = prices.length;       int min  =0;       for(int i =0;i<n;i++){        if(prices[i]>min){            prices[i] = min;        }       }        int profit =     }}": {
+              "syncedAt": 1787549780727,
+              "runtime": "N/A",
+              "memory": "N/A",
               "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock/"
             }
           }
