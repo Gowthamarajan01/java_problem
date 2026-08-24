@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T10:11:27.973Z",
+  "lastUpdated": "2026-08-24T05:09:21.701Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -15,9 +15,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786446438874,
-              "runtime": "44 ms",
-              "memory": "46.9 MB",
+              "syncedAt": 1787548161701,
+              "runtime": "38 ms",
+              "memory": "46 MB",
               "githubPath": "LeetCode/Array/Two Sum/"
             }
           }
