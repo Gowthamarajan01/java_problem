@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T10:27:41.715Z",
+  "lastUpdated": "2026-08-25T10:53:04.859Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3930,6 +3930,23 @@
               "runtime": "614 ms",
               "memory": "0B",
               "githubPath": "LeetCode/Database/Project Employees I/"
+            }
+          }
+        },
+        "average-selling-price": {
+          "questionId": "1251",
+          "title": "Average Selling Price",
+          "titleSlug": "average-selling-price",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787655184859,
+              "runtime": "923 ms",
+              "memory": "0B",
+              "githubPath": "LeetCode/Database/Average Selling Price/"
             }
           }
         }
