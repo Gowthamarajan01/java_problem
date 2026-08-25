@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-24T11:06:41.113Z",
+  "lastUpdated": "2026-08-25T10:27:41.715Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3913,6 +3913,23 @@
               "runtime": "1 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/String/Detect Capital/"
+            }
+          }
+        },
+        "project-employees-i": {
+          "questionId": "1075",
+          "title": "Project Employees I",
+          "titleSlug": "project-employees-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Database"
+          ],
+          "solutions": {
+            "mysql": {
+              "syncedAt": 1787653661714,
+              "runtime": "614 ms",
+              "memory": "0B",
+              "githubPath": "LeetCode/Database/Project Employees I/"
             }
           }
         }
