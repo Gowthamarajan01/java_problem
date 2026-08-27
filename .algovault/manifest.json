@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-27T04:55:47.964Z",
+  "lastUpdated": "2026-08-27T05:49:48.944Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3967,6 +3967,24 @@
               "runtime": "4 ms",
               "memory": "50.5 MB",
               "githubPath": "LeetCode/Linked List/Reorder List/"
+            }
+          }
+        },
+        "copy-list-with-random-pointer": {
+          "questionId": "138",
+          "title": "Copy List with Random Pointer",
+          "titleSlug": "copy-list-with-random-pointer",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787809788934,
+              "runtime": "0 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Hash Table/Copy List with Random Pointer/"
             }
           }
         }
