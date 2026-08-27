@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-25T10:53:04.859Z",
+  "lastUpdated": "2026-08-27T04:55:47.964Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3947,6 +3947,26 @@
               "runtime": "923 ms",
               "memory": "0B",
               "githubPath": "LeetCode/Database/Average Selling Price/"
+            }
+          }
+        },
+        "reorder-list": {
+          "questionId": "143",
+          "title": "Reorder List",
+          "titleSlug": "reorder-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Two Pointers",
+            "Stack",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787806547963,
+              "runtime": "4 ms",
+              "memory": "50.5 MB",
+              "githubPath": "LeetCode/Linked List/Reorder List/"
             }
           }
         }
