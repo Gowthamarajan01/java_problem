@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-28T05:31:03.788Z",
+  "lastUpdated": "2026-08-29T14:25:41.204Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1534,9 +1534,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786446489856,
-              "runtime": "7 ms",
-              "memory": "44 MB",
+              "syncedAt": 1788013541204,
+              "runtime": "6 ms",
+              "memory": "44.3 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse Words in a String/"
             }
           }
