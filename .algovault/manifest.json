@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-01T09:31:52.908Z",
+  "lastUpdated": "2026-09-01T09:31:57.926Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4017,10 +4017,10 @@
             "Recursion"
           ],
           "solutions": {
-            "java": {
-              "syncedAt": 1788255112907,
+            "89101112136714515 *     listnode(int val, listnode next) { this.val = val; this.next = next; } * } */class solution {    public listnode mergetwolists(listnode list1, listnode list2) {        if(list1!=null && list2!=null){ *     listnode() {} *     listnode(int val) { this.val = val; }            if(list1.val<list2.val){ *     listnode next;                list1.next = mergetwolists(list1.next,list2);": {
+              "syncedAt": 1788255117926,
               "runtime": "0 ms",
-              "memory": "43.9 MB",
+              "memory": "N/A",
               "githubPath": "LeetCode/Linked List/Merge Two Sorted Lists/"
             }
           }
