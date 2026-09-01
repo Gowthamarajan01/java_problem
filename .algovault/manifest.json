@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-29T14:25:41.204Z",
+  "lastUpdated": "2026-09-01T09:31:52.908Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4004,6 +4004,24 @@
               "runtime": "3 ms",
               "memory": "43.6 MB",
               "githubPath": "LeetCode/Hash Table/Letter Combinations of a Phone Number/"
+            }
+          }
+        },
+        "merge-two-sorted-lists": {
+          "questionId": "21",
+          "title": "Merge Two Sorted Lists",
+          "titleSlug": "merge-two-sorted-lists",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1788255112907,
+              "runtime": "0 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/Linked List/Merge Two Sorted Lists/"
             }
           }
         }

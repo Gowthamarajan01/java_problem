@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/Gowthathamarajan_pommusamy?theme=tokyonight&show=graph,recent&v=1788013541245" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/Gowthathamarajan_pommusamy?theme=tokyonight&show=graph,recent&v=1788255112962" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -221,6 +221,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 2 | [Add Two Numbers](./Linked%20List/Add%20Two%20Numbers/) | Medium |
+| 21 | [Merge Two Sorted Lists](./Linked%20List/Merge%20Two%20Sorted%20Lists/) | Easy |
 | 83 | [Remove Duplicates from Sorted List](./Linked%20List/Remove%20Duplicates%20from%20Sorted%20List/) | Easy |
 | 114 | [Flatten Binary Tree to Linked List](./Linked%20List/Flatten%20Binary%20Tree%20to%20Linked%20List/) | Medium |
 | 143 | [Reorder List](./Linked%20List/Reorder%20List/) | Medium |
